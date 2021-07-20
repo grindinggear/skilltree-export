@@ -10020,7 +10020,7 @@
                 "Regenerate 2% of Life per second",
                 "5% reduced Damage taken",
                 "Armour received from Body Armour is doubled",
-                "0.2% of Total Physical Damage prevented from Hits in the past 10 seconds is Regenerated as Life per second"
+                "1.5% of Total Physical Damage prevented from Hits in the past 10 seconds is Regenerated as Life per second"
             ],
             "group": 7,
             "orbit": 3,
@@ -25723,8 +25723,8 @@
         },
         "14003": {
             "skill": 14003,
-            "name": "Chaos and Power Charge Mastery",
-            "icon": "Art\/2DArt\/SkillIcons\/passives\/MasteryChaosDamagePowerCharge.png",
+            "name": "Curse and Power Charge Mastery",
+            "icon": "Art\/2DArt\/SkillIcons\/passives\/CurseChargeMastery.png",
             "isMastery": true,
             "stats": [],
             "group": 266,
@@ -28035,7 +28035,7 @@
             "icon": "Art\/2DArt\/SkillIcons\/passives\/KeystoneIronGrip.png",
             "isKeystone": true,
             "stats": [
-                "Strength's damage bonus applies to Projectile Damage as well as Melee Damgae"
+                "Strength's Damage bonus applies to Projectile Attack Damage as well as Melee Damage"
             ],
             "flavourText": [
                 "Legend tells of bows so powerful that only giants could draw them back."
@@ -32443,7 +32443,7 @@
             "icon": "Art\/2DArt\/SkillIcons\/passives\/lightningint.png",
             "stats": [
                 "10% increased Lightning Damage",
-                "[DNT] 30% increased Duration of Lightning Ailments"
+                "30% increased Duration of Lightning Ailments"
             ],
             "reminderText": [
                 "(Lightning Ailments are Shocked and Sapped)"
@@ -32470,7 +32470,7 @@
             "stats": [
                 "20% increased Lightning Damage",
                 "15% chance to Shock",
-                "[DNT] 20% increased Duration of Lightning Ailments",
+                "20% increased Duration of Lightning Ailments",
                 "20% increased Effect of Lightning Ailments"
             ],
             "reminderText": [
@@ -34462,7 +34462,7 @@
             "icon": "Art\/2DArt\/SkillIcons\/passives\/colddamage.png",
             "stats": [
                 "10% increased Cold Damage",
-                "[DNT] 30% increased Duration of Cold Ailments"
+                "30% increased Duration of Cold Ailments"
             ],
             "reminderText": [
                 "(Cold Ailments are Chilled, Frozen and Brittle)"
@@ -36378,7 +36378,7 @@
             "icon": "Art\/2DArt\/SkillIcons\/passives\/lightningint.png",
             "stats": [
                 "5% chance to Shock",
-                "[DNT] 30% increased Duration of Lightning Ailments",
+                "30% increased Duration of Lightning Ailments",
                 "10% increased Effect of Lightning Ailments"
             ],
             "reminderText": [
@@ -38950,7 +38950,7 @@
                 "BlackOil"
             ],
             "stats": [
-                "Skills supported by Intensify have +1 to maximum Intensity"
+                "Spells which can gain Intensity have +1 to maximum Intensity"
             ],
             "group": 453,
             "orbit": 2,
@@ -50402,7 +50402,7 @@
             "icon": "Art\/2DArt\/SkillIcons\/passives\/colddamage.png",
             "stats": [
                 "10% increased Cold Damage",
-                "[DNT] 20% increased Duration of Cold Ailments",
+                "20% increased Duration of Cold Ailments",
                 "10% increased Effect of Cold Ailments"
             ],
             "reminderText": [
@@ -55075,7 +55075,7 @@
             "isNotable": true,
             "stats": [
                 "+20% to Damage over Time Multiplier for Ignite from Critical Strikes",
-                "[DNT] 20% increased Effect of non-Damaging Ailments you inflict with Critical Strikes",
+                "20% increased Effect of non-Damaging Ailments you inflict with Critical Strikes",
                 "40% increased Critical Strike Chance"
             ],
             "reminderText": [
@@ -55148,7 +55148,7 @@
             "isNotable": true,
             "stats": [
                 "10% increased Area Damage",
-                "Skills supported by Intensify have +1 to maximum Intensity"
+                "Spells which can gain Intensity have +1 to maximum Intensity"
             ]
         },
         "48550": {
@@ -104250,7 +104250,7 @@
         ],
         "mastery": [
             {
-                "filename": "groups-0.png?4b9f753a2abe3eb21982e6b43febf81a",
+                "filename": "groups-0.png?3e94d72bda5e0696208d5c32f1e3de89",
                 "coords": {
                     "Art\/2DArt\/SkillIcons\/passives\/ElementalMastery2.png": {
                         "x": 0,
@@ -104438,7 +104438,7 @@
                         "w": 32,
                         "h": 32
                     },
-                    "Art\/2DArt\/SkillIcons\/passives\/MasteryChaosDamagePowerCharge.png": {
+                    "Art\/2DArt\/SkillIcons\/passives\/CurseChargeMastery.png": {
                         "x": 32,
                         "y": 96,
                         "w": 32,
@@ -104843,7 +104843,7 @@
                 }
             },
             {
-                "filename": "groups-1.png?81b5499b71667185e0e93d91f2f8569f",
+                "filename": "groups-1.png?b9c282b11a50c77554611e8955128123",
                 "coords": {
                     "Art\/2DArt\/SkillIcons\/passives\/ElementalMastery2.png": {
                         "x": 0,
@@ -105031,7 +105031,7 @@
                         "w": 55,
                         "h": 55
                     },
-                    "Art\/2DArt\/SkillIcons\/passives\/MasteryChaosDamagePowerCharge.png": {
+                    "Art\/2DArt\/SkillIcons\/passives\/CurseChargeMastery.png": {
                         "x": 55,
                         "y": 165,
                         "w": 55,
@@ -105436,7 +105436,7 @@
                 }
             },
             {
-                "filename": "groups-2.png?d0ea8bb37780a77c5cf308bb74d755a3",
+                "filename": "groups-2.png?8bd096bdf22a7004a74749101d55d0dc",
                 "coords": {
                     "Art\/2DArt\/SkillIcons\/passives\/ElementalMastery2.png": {
                         "x": 0,
@@ -105624,7 +105624,7 @@
                         "w": 77,
                         "h": 77
                     },
-                    "Art\/2DArt\/SkillIcons\/passives\/MasteryChaosDamagePowerCharge.png": {
+                    "Art\/2DArt\/SkillIcons\/passives\/CurseChargeMastery.png": {
                         "x": 77,
                         "y": 231,
                         "w": 77,
@@ -106029,7 +106029,7 @@
                 }
             },
             {
-                "filename": "groups-3.png?80ab97b00717ee4a5d7ec5e64e87db80",
+                "filename": "groups-3.png?8973c62af4a47b96230844e47cdc5594",
                 "coords": {
                     "Art\/2DArt\/SkillIcons\/passives\/ElementalMastery2.png": {
                         "x": 0,
@@ -106217,7 +106217,7 @@
                         "w": 99,
                         "h": 99
                     },
-                    "Art\/2DArt\/SkillIcons\/passives\/MasteryChaosDamagePowerCharge.png": {
+                    "Art\/2DArt\/SkillIcons\/passives\/CurseChargeMastery.png": {
                         "x": 99,
                         "y": 297,
                         "w": 99,
