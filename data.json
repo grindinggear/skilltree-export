@@ -1061,8 +1061,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/pyromaniac.png",
             "isNotable": true,
             "stats": [
-                "25% chance to Ignite",
-                "Enemies Ignited by you have -10% to Fire Resistance"
+                "20% chance to Ignite"
             ],
             "reminderText": [
                 "(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)"
@@ -1156,7 +1155,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/hellfire.png",
             "isNotable": true,
             "stats": [
-                "25% chance to Ignite",
+                "10% chance to Ignite",
                 "Ignites you inflict spread to other Enemies within a Radius of 25"
             ],
             "reminderText": [
@@ -4150,7 +4149,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/DodgeAtksNotable.png",
             "isNotable": true,
             "stats": [
-                "+10% chance to Suppress Spell Damage",
+                "+20% chance to Suppress Spell Damage",
                 "Phasing"
             ],
             "reminderText": [
@@ -4171,8 +4170,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/evasion.png",
             "isNotable": true,
             "stats": [
-                "10% increased Evasion Rating",
-                "10% reduced Damage taken if you haven't been Hit Recently"
+                "15% reduced Damage taken if you haven't been Hit Recently"
             ],
             "reminderText": [
                 "(Recently refers to the past 4 seconds)"
@@ -4710,10 +4708,10 @@
             "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NCwic3AiOjAuMzgzNX1d/88938886c7/KeystoneFrameAllocated.png"
         },
         "Orbit1Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwic3AiOjAuMTI0Nn1d/8e94be2c29/PSOrbit1Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwic3AiOjAuMjEwOX1d/d6b26ae7b3/PSOrbit1Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwic3AiOjAuMjk3Mn1d/7f9eaa2b01/PSOrbit1Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwic3AiOjAuMzgzNX1d/b3a3b31939/PSOrbit1Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwic3AiOjAuMTI0Nn1d/bfe6d100c9/Orbit1Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwic3AiOjAuMjEwOX1d/9843ee3601/Orbit1Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwic3AiOjAuMjk3Mn1d/27ce37d068/Orbit1Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwic3AiOjAuMzgzNX1d/01a44e3cfd/Orbit1Normal.png"
         },
         "Orbit1Intermediate": {
             "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjEsInNwIjowLjEyNDZ9XQ/e2499118d3/Orbit1Intermediate.png",
@@ -10439,7 +10437,7 @@
         ],
         "mastery": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-0.png?805fa3613852b454029e9c0f3df48539",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-0.png?2380b758e198df447d5bea772f9245b1",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/MasteryGroupLightning.png": {
                         "x": 0,
@@ -10594,7 +10592,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-1.png?de96cfbf35177b35ff7284d6731a15c4",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-1.png?ed9323e4e4985defbfd403ec0e1ca312",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/MasteryGroupLightning.png": {
                         "x": 0,
@@ -10749,7 +10747,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-2.png?81252e9e0296c1c6f456d706b097ef41",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-2.png?0dd6bb1f79aec5ba4211480d70e6acaa",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/MasteryGroupLightning.png": {
                         "x": 0,
@@ -10904,7 +10902,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-3.png?5dccd1bb2ba5676443049f8dc56eda77",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-3.png?da452e5bbb3a90b962f7ad31ba18ca83",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/MasteryGroupLightning.png": {
                         "x": 0,
