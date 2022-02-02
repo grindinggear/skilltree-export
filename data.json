@@ -3714,8 +3714,8 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/TheCleansingFire4.png",
             "isNotable": true,
             "stats": [
-                "Monster Packs Influenced by The Searing Exarch in Areas have 10% chance to contain an additional Possessing Flame Wraith",
-                "Eldritch Currency Items found in Areas influenced by The Eater of Worlds have 10% chance to be Duplicated"
+                "Eldritch Currency Items found in Areas influenced by The Searing Exarch have 10% chance to be Duplicated",
+                "Monster Packs Influenced by The Searing Exarch in Areas have 10% chance to contain an additional Possessing Flame Wraith"
             ],
             "group": 14,
             "orbit": 3,
@@ -4025,9 +4025,9 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/TheCleansingFire3.png",
             "isNotable": true,
             "stats": [
+                "+20% chance to spawn a Searing Exarch Altar when the Influence of The Searing Exarch first appears in Areas",
                 "Eldritch Currency Items found have 10% chance to be Duplicated for each Searing Exarch Altar used in the Area",
-                "Players take 10% increased Damage for each Searing Exarch Altar used in the Area",
-                "20% increased chance to find Eater of Worlds Altars in Areas"
+                "Players take 10% increased Damage for each Searing Exarch Altar used in the Area"
             ],
             "group": 20,
             "orbit": 0,
@@ -4496,8 +4496,12 @@
             "group": 26,
             "orbit": 4,
             "orbitIndex": 26,
-            "out": [],
-            "in": []
+            "out": [
+                "46977"
+            ],
+            "in": [
+                "51124"
+            ]
         },
         "46829": {
             "skill": 46829,
@@ -4509,8 +4513,12 @@
             "group": 26,
             "orbit": 4,
             "orbitIndex": 14,
-            "out": [],
-            "in": []
+            "out": [
+                "35529"
+            ],
+            "in": [
+                "34979"
+            ]
         },
         "26007": {
             "skill": 26007,
@@ -4522,11 +4530,10 @@
             "group": 26,
             "orbit": 2,
             "orbitIndex": 5,
-            "out": [
-                "9816"
-            ],
+            "out": [],
             "in": [
-                "18189"
+                "18189",
+                "47465"
             ]
         },
         "9816": {
@@ -4543,7 +4550,7 @@
                 "18383"
             ],
             "in": [
-                "26007"
+                "47465"
             ]
         },
         "18189": {
@@ -4606,7 +4613,10 @@
             "group": 26,
             "orbit": 2,
             "orbitIndex": 3,
-            "out": [],
+            "out": [
+                "9816",
+                "26007"
+            ],
             "in": []
         },
         "51124": {
@@ -4620,7 +4630,7 @@
             "orbit": 4,
             "orbitIndex": 23,
             "out": [
-                "46977"
+                "12428"
             ],
             "in": [
                 "24653"
@@ -4640,7 +4650,7 @@
                 "11112"
             ],
             "in": [
-                "51124"
+                "12428"
             ]
         },
         "11112": {
@@ -4670,11 +4680,10 @@
             "orbit": 4,
             "orbitIndex": 12,
             "out": [
-                "56199"
+                "56199",
+                "46829"
             ],
-            "in": [
-                "35529"
-            ]
+            "in": []
         },
         "35529": {
             "skill": 35529,
@@ -4686,10 +4695,9 @@
             "group": 26,
             "orbit": 4,
             "orbitIndex": 17,
-            "out": [
-                "34979"
-            ],
+            "out": [],
             "in": [
+                "46829",
                 "24653"
             ]
         },
@@ -9446,7 +9454,7 @@
             "isNotable": true,
             "stats": [
                 "20% more Crescent Splinters found in The Maven's Crucible",
-                "The Maven's Crucible has +2% to Monster Level"
+                "The Maven's Crucible has +2 to Monster Level"
             ],
             "group": 89,
             "orbit": 5,
@@ -9823,7 +9831,7 @@
             "name": "Rare Monster Duplication",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/RareMonstersnode.png",
             "stats": [
-                "1 Rare Monster in Areas is Duplicated"
+                "1 Rare Monster in Areas are Duplicated"
             ],
             "group": 95,
             "orbit": 2,
@@ -9839,7 +9847,7 @@
             "name": "Rare Monster Duplication",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/RareMonstersnode.png",
             "stats": [
-                "1 Rare Monster in Areas is Duplicated"
+                "1 Rare Monster in Areas are Duplicated"
             ],
             "group": 95,
             "orbit": 2,
@@ -9873,7 +9881,7 @@
             "name": "Rare Monster Duplication",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/RareMonstersnode.png",
             "stats": [
-                "1 Rare Monster in Areas is Duplicated"
+                "1 Rare Monster in Areas are Duplicated"
             ],
             "group": 95,
             "orbit": 2,
@@ -11758,7 +11766,7 @@
         },
         "1243": {
             "skill": 1243,
-            "name": "Martialed Forces",
+            "name": "Martial Forces",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ConquerorNotable1.png",
             "isNotable": true,
             "stats": [
@@ -23890,7 +23898,7 @@
         ],
         "mastery": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-0.png?68d5574a62ff252e614bcc104968f161",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-0.png?f8d1fa773d895c8946b92eae71aed466",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -24105,7 +24113,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-1.png?8b9e57a553e82582b97a2006debe2ad6",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-1.png?c9f5a9455790baddb13858071212de9d",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -24320,7 +24328,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-2.png?658da88691104679479db504c7293b0c",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-2.png?68944bd4e3a6c0f01931659f436200a3",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -24535,7 +24543,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-3.png?5cab3b72b2e2af558bd4ce6e452ea0e6",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-3.png?e00c89b977ed970f83836991ae97d5ab",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -24752,7 +24760,7 @@
         ],
         "masteryActive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-0.png?275f6bba9a08e15abfc50831e942926f",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-0.png?e3de97695d8b7e11bd08bd44fce7e016",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -24967,7 +24975,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-1.png?83e5a74f1b199ba4d95789f9baf89f9c",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-1.png?00fccc329bdc8e2ead1b3ea843f303ca",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -25182,7 +25190,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-2.png?549e8ac11ea9489dee02b72316156af4",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-2.png?e9bdba3a9f80007b56b05c922b572767",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -25397,7 +25405,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-3.png?63f37f0bf70b0e931af43bd4d91e2923",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-3.png?a66a9528a2f51eef02977f851857f5c3",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
