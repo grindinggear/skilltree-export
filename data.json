@@ -3714,7 +3714,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/TheCleansingFire4.png",
             "isNotable": true,
             "stats": [
-                "Eldritch Currency Items found in Areas influenced by The Searing Exarch have 10% chance to be Duplicated",
+                "Eldritch Embers found in Areas influenced by The Searing Exarch have 10% chance to be Duplicated",
                 "Monster Packs Influenced by The Searing Exarch in Areas have 2% chance to contain an additional Possessing Flame Wraith"
             ],
             "group": 14,
@@ -4026,7 +4026,7 @@
             "isNotable": true,
             "stats": [
                 "+20% chance to spawn a Searing Exarch Altar when the Influence of The Searing Exarch first appears in Areas",
-                "Eldritch Currency Items found have 10% chance to be Duplicated for each Searing Exarch Altar used in the Area",
+                "Eldritch Embers found have 10% chance to be Duplicated for each Searing Exarch Altar used in the Area",
                 "Players take 10% increased Damage for each Searing Exarch Altar used in the Area"
             ],
             "group": 20,
@@ -9307,7 +9307,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ElderShaperNotable2.png",
             "isNotable": true,
             "stats": [
-                "Unique Bosses have 2% chance to drop an Elder Guardian Map (Tier 14+)",
+                "Unique Bosses have 1% chance to drop an Elder Guardian Map (Tier 14+)",
                 "The Elder has +10% chance to drop a Watcher's Eye",
                 "The Shaper drops 3 additional Shaper Items"
             ],
@@ -9327,7 +9327,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ElderShaperNotable3.png",
             "isNotable": true,
             "stats": [
-                "Unique Bosses have 2% chance to drop a Shaper Guardian Map (Tier 14+)",
+                "Unique Bosses have 1% chance to drop a Shaper Guardian Map (Tier 14+)",
                 "Shaper and Elder Guardians are healed and joined by an ally on first reaching 33% Life\nAllies have a chance to drop their Fragments"
             ],
             "reminderText": [
@@ -9437,7 +9437,7 @@
             "isNotable": true,
             "stats": [
                 "25% chance for Orbs of Conflict found in Areas to be duplicated",
-                "25% increased chance to drop an Awakened Support Gem on completing The Maven's Crucible"
+                "25% increased chance to drop an Awakened Support Gem on completing The Maven's Crucible or defeating The Maven"
             ],
             "group": 89,
             "orbit": 5,
@@ -13742,7 +13742,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/TheTangle4.png",
             "isNotable": true,
             "stats": [
-                "Eldritch Currency Items found in Areas influenced by The Eater of Worlds have 10% chance to be Duplicated",
+                "Eldritch Ichor found in Areas influenced by The Eater of Worlds have 10% chance to be Duplicated",
                 "Monster Packs Influenced by The Eater of Worlds in Areas have 2% chance to contain an additional Touching Tentacle Mass"
             ],
             "group": 154,
@@ -14870,22 +14870,22 @@
     "max_y": 0,
     "assets": {
         "PSSkillFrame": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MCwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9QYXNzaXZlU2tpbGxTY3JlZW5QYXNzaXZlRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4xMjQ2fV0/13a60217f8/Skill_Frame_Unallocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MCwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9QYXNzaXZlU2tpbGxTY3JlZW5QYXNzaXZlRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4yMTA5fV0/b9969ec8fb/Skill_Frame_Unallocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MCwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9QYXNzaXZlU2tpbGxTY3JlZW5QYXNzaXZlRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4yOTcyfV0/d6f00fc82e/Skill_Frame_Unallocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MCwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9QYXNzaXZlU2tpbGxTY3JlZW5QYXNzaXZlRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4zODM1fV0/4966e7233d/Skill_Frame_Unallocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI3NzMwMDMwNjI4MzBlOWNmZGE5MDI5ZDViOTZmYjYzOCIseyJ0IjowLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjEyNDZ9XQ/4b9cc73dde/Skill_Frame_Unallocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI3NzMwMDMwNjI4MzBlOWNmZGE5MDI5ZDViOTZmYjYzOCIseyJ0IjowLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjIxMDl9XQ/b821066ec8/Skill_Frame_Unallocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI3NzMwMDMwNjI4MzBlOWNmZGE5MDI5ZDViOTZmYjYzOCIseyJ0IjowLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjI5NzJ9XQ/0c28077b12/Skill_Frame_Unallocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI3NzMwMDMwNjI4MzBlOWNmZGE5MDI5ZDViOTZmYjYzOCIseyJ0IjowLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjM4MzV9XQ/8b31604dec/Skill_Frame_Unallocated.png"
         },
         "PSSkillFrameHighlighted": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MiwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9QYXNzaXZlU2tpbGxTY3JlZW5QYXNzaXZlRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjEyNDZ9XQ/87b433bc0a/Skill_Frame_CanAllocate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MiwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9QYXNzaXZlU2tpbGxTY3JlZW5QYXNzaXZlRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjIxMDl9XQ/dfcd50247a/Skill_Frame_CanAllocate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MiwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9QYXNzaXZlU2tpbGxTY3JlZW5QYXNzaXZlRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjI5NzJ9XQ/399ed7ed99/Skill_Frame_CanAllocate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MiwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9QYXNzaXZlU2tpbGxTY3JlZW5QYXNzaXZlRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjM4MzV9XQ/5e2207980a/Skill_Frame_CanAllocate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJmNDY4NWZhNmJiYTEyYTVjMWQ1NTZkMzhlYWJiYzVmYyIseyJ0IjoyLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMTI0Nn1d/5910a78277/Skill_Frame_CanAllocate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJmNDY4NWZhNmJiYTEyYTVjMWQ1NTZkMzhlYWJiYzVmYyIseyJ0IjoyLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMjEwOX1d/d76922f15f/Skill_Frame_CanAllocate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJmNDY4NWZhNmJiYTEyYTVjMWQ1NTZkMzhlYWJiYzVmYyIseyJ0IjoyLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMjk3Mn1d/fdb77b2caa/Skill_Frame_CanAllocate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJmNDY4NWZhNmJiYTEyYTVjMWQ1NTZkMzhlYWJiYzVmYyIseyJ0IjoyLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMzgzNX1d/e292b3f37a/Skill_Frame_CanAllocate.png"
         },
         "PSSkillFrameActive": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MSwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9QYXNzaXZlU2tpbGxTY3JlZW5QYXNzaXZlRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4xMjQ2fV0/aed0140cc0/Skill_Frame_Allocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MSwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9QYXNzaXZlU2tpbGxTY3JlZW5QYXNzaXZlRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4yMTA5fV0/5c3dca530c/Skill_Frame_Allocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MSwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9QYXNzaXZlU2tpbGxTY3JlZW5QYXNzaXZlRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4yOTcyfV0/7c86b1eb79/Skill_Frame_Allocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MSwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9QYXNzaXZlU2tpbGxTY3JlZW5QYXNzaXZlRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4zODM1fV0/9c85e7e119/Skill_Frame_Allocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIyNDkyODM3Mzk1ZjUzZjVlNTQ4NjQ0M2EyYWZiODMyYiIseyJ0IjoxLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjEyNDZ9XQ/4e105e6e35/Skill_Frame_Allocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIyNDkyODM3Mzk1ZjUzZjVlNTQ4NjQ0M2EyYWZiODMyYiIseyJ0IjoxLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjIxMDl9XQ/32f8bef6d0/Skill_Frame_Allocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIyNDkyODM3Mzk1ZjUzZjVlNTQ4NjQ0M2EyYWZiODMyYiIseyJ0IjoxLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjI5NzJ9XQ/8d59abb595/Skill_Frame_Allocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIyNDkyODM3Mzk1ZjUzZjVlNTQ4NjQ0M2EyYWZiODMyYiIseyJ0IjoxLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjM4MzV9XQ/aa3b9dc33a/Skill_Frame_Allocated.png"
         },
         "PSGroupBackground1": {
             "0.1246": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbkdyb3VwQmFja2dyb3VuZFNtYWxsIiwic3AiOjAuMTI0Nn1d/9ab24223aa/Group_Background_1.png",
@@ -14906,166 +14906,166 @@
             "0.3835": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbkdyb3VwQmFja2dyb3VuZExhcmdlIiwic3AiOjAuMzgzNX1d/ee95794efc/Group_Background_3.png"
         },
         "NotableFrameUnallocated": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NiwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbk5vdGFibGVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjEyNDZ9XQ/74758df2e4/NotableFrameUnallocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NiwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbk5vdGFibGVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjIxMDl9XQ/21ec689b8d/NotableFrameUnallocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NiwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbk5vdGFibGVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjI5NzJ9XQ/146ff66105/NotableFrameUnallocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NiwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbk5vdGFibGVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjM4MzV9XQ/e43cf80c70/NotableFrameUnallocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJhMzhjZjEwNTBiYmExYjJiOWJjMzA3NzA1ZGY5YjA5MCIseyJ0Ijo2LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMTI0Nn1d/03beffff0b/NotableFrameUnallocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJhMzhjZjEwNTBiYmExYjJiOWJjMzA3NzA1ZGY5YjA5MCIseyJ0Ijo2LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMjEwOX1d/268e1d1608/NotableFrameUnallocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJhMzhjZjEwNTBiYmExYjJiOWJjMzA3NzA1ZGY5YjA5MCIseyJ0Ijo2LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMjk3Mn1d/458269950d/NotableFrameUnallocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJhMzhjZjEwNTBiYmExYjJiOWJjMzA3NzA1ZGY5YjA5MCIseyJ0Ijo2LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMzgzNX1d/d7f5297205/NotableFrameUnallocated.png"
         },
         "NotableFrameCanAllocate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OCwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbk5vdGFibGVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMTI0Nn1d/80b400d7a3/NotableFrameCanAllocate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OCwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbk5vdGFibGVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMjEwOX1d/e5c9807237/NotableFrameCanAllocate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OCwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbk5vdGFibGVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMjk3Mn1d/f830e7c6fb/NotableFrameCanAllocate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OCwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbk5vdGFibGVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMzgzNX1d/24e17a88f1/NotableFrameCanAllocate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI3YTcwMDc4YzczOWUzM2Y2OGJlNDlkNTgxZWQyZmQ1NiIseyJ0Ijo4LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4xMjQ2fV0/7b1d2fc9e2/NotableFrameCanAllocate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI3YTcwMDc4YzczOWUzM2Y2OGJlNDlkNTgxZWQyZmQ1NiIseyJ0Ijo4LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4yMTA5fV0/fd9779b2ff/NotableFrameCanAllocate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI3YTcwMDc4YzczOWUzM2Y2OGJlNDlkNTgxZWQyZmQ1NiIseyJ0Ijo4LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4yOTcyfV0/234b82f9ac/NotableFrameCanAllocate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI3YTcwMDc4YzczOWUzM2Y2OGJlNDlkNTgxZWQyZmQ1NiIseyJ0Ijo4LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4zODM1fV0/ce71f1fe5c/NotableFrameCanAllocate.png"
         },
         "NotableFrameAllocated": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NywicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbk5vdGFibGVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjEyNDZ9XQ/a4de824507/NotableFrameAllocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NywicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbk5vdGFibGVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjIxMDl9XQ/372d940ee8/NotableFrameAllocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NywicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbk5vdGFibGVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjI5NzJ9XQ/d2bdcfa7ef/NotableFrameAllocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NywicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbk5vdGFibGVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjM4MzV9XQ/bbc5faaf82/NotableFrameAllocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJlZTY4YTNmODA4Mjc2ZDc5ODA0ZTA0OWJhZTA0YWJlMyIseyJ0Ijo3LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMTI0Nn1d/ede1c286b7/NotableFrameAllocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJlZTY4YTNmODA4Mjc2ZDc5ODA0ZTA0OWJhZTA0YWJlMyIseyJ0Ijo3LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMjEwOX1d/64fee095a0/NotableFrameAllocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJlZTY4YTNmODA4Mjc2ZDc5ODA0ZTA0OWJhZTA0YWJlMyIseyJ0Ijo3LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMjk3Mn1d/6faf373312/NotableFrameAllocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJlZTY4YTNmODA4Mjc2ZDc5ODA0ZTA0OWJhZTA0YWJlMyIseyJ0Ijo3LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMzgzNX1d/998297d1fe/NotableFrameAllocated.png"
         },
         "KeystoneFrameUnallocated": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MywicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5LZXlzdG9uZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMTI0Nn1d/7b38bc0516/KeystoneFrameUnallocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MywicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5LZXlzdG9uZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMjEwOX1d/8b61f878a7/KeystoneFrameUnallocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MywicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5LZXlzdG9uZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMjk3Mn1d/ade172f93a/KeystoneFrameUnallocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MywicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5LZXlzdG9uZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMzgzNX1d/d4d590f85f/KeystoneFrameUnallocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIyMDlkY2Q5ZDJmYzdhY2U5YjFmZGU2NmFmYmU3NGFlNSIseyJ0IjozLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4xMjQ2fV0/ad7dca759d/KeystoneFrameUnallocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIyMDlkY2Q5ZDJmYzdhY2U5YjFmZGU2NmFmYmU3NGFlNSIseyJ0IjozLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4yMTA5fV0/c17d250ac5/KeystoneFrameUnallocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIyMDlkY2Q5ZDJmYzdhY2U5YjFmZGU2NmFmYmU3NGFlNSIseyJ0IjozLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4yOTcyfV0/b83fda859d/KeystoneFrameUnallocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIyMDlkY2Q5ZDJmYzdhY2U5YjFmZGU2NmFmYmU3NGFlNSIseyJ0IjozLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4zODM1fV0/96c8ad58c9/KeystoneFrameUnallocated.png"
         },
         "KeystoneFrameCanAllocate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NSwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5LZXlzdG9uZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4xMjQ2fV0/44ea53ea5b/KeystoneFrameCanAllocate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NSwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5LZXlzdG9uZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4yMTA5fV0/ddc74ec0fe/KeystoneFrameCanAllocate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NSwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5LZXlzdG9uZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4yOTcyfV0/74eaabfd4d/KeystoneFrameCanAllocate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NSwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5LZXlzdG9uZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4zODM1fV0/264b894a67/KeystoneFrameCanAllocate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIxNzM2NjliMmIzMGUwNjQxZjMzODlhOWVkZWJjNDk2ZCIseyJ0Ijo1LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjEyNDZ9XQ/db0c8d8f0d/KeystoneFrameCanAllocate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIxNzM2NjliMmIzMGUwNjQxZjMzODlhOWVkZWJjNDk2ZCIseyJ0Ijo1LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjIxMDl9XQ/ba9a9c50e6/KeystoneFrameCanAllocate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIxNzM2NjliMmIzMGUwNjQxZjMzODlhOWVkZWJjNDk2ZCIseyJ0Ijo1LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjI5NzJ9XQ/59ae4c1a53/KeystoneFrameCanAllocate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIxNzM2NjliMmIzMGUwNjQxZjMzODlhOWVkZWJjNDk2ZCIseyJ0Ijo1LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjM4MzV9XQ/99223b8e0d/KeystoneFrameCanAllocate.png"
         },
         "KeystoneFrameAllocated": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NCwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5LZXlzdG9uZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMTI0Nn1d/5f6ea82dba/KeystoneFrameAllocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NCwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5LZXlzdG9uZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMjEwOX1d/91a45e3afd/KeystoneFrameAllocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NCwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5LZXlzdG9uZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMjk3Mn1d/4a443dcc71/KeystoneFrameAllocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NCwicCI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5LZXlzdG9uZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMzgzNX1d/34ea04d94e/KeystoneFrameAllocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI0MDg4YmFmN2ZlZmVhZDQwN2RjODU5OWM0M2JiMjVhYyIseyJ0Ijo0LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4xMjQ2fV0/b38d03f8ee/KeystoneFrameAllocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI0MDg4YmFmN2ZlZmVhZDQwN2RjODU5OWM0M2JiMjVhYyIseyJ0Ijo0LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4yMTA5fV0/6df3109655/KeystoneFrameAllocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI0MDg4YmFmN2ZlZmVhZDQwN2RjODU5OWM0M2JiMjVhYyIseyJ0Ijo0LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4yOTcyfV0/3791341626/KeystoneFrameAllocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI0MDg4YmFmN2ZlZmVhZDQwN2RjODU5OWM0M2JiMjVhYyIseyJ0Ijo0LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4zODM1fV0/9e7b1e9a87/KeystoneFrameAllocated.png"
         },
         "Orbit1Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwiYSI6MSwic3AiOjAuMTI0Nn1d/c1f7a733c3/AtlasOrbit1Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwiYSI6MSwic3AiOjAuMjEwOX1d/8e0c9ebb03/AtlasOrbit1Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwiYSI6MSwic3AiOjAuMjk3Mn1d/9a9f07a8ab/AtlasOrbit1Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwiYSI6MSwic3AiOjAuMzgzNX1d/61d5adad79/AtlasOrbit1Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJjYzBjMTQ4ZGJlNzI1OTE3ODczYmFlNGExYmVjMTk4ZiIseyJ0Ijo5LCJvIjoxLCJhIjoxLCJzcCI6MC4xMjQ2fV0/15f3219ab2/AtlasOrbit1Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJjYzBjMTQ4ZGJlNzI1OTE3ODczYmFlNGExYmVjMTk4ZiIseyJ0Ijo5LCJvIjoxLCJhIjoxLCJzcCI6MC4yMTA5fV0/f37b3e4702/AtlasOrbit1Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJjYzBjMTQ4ZGJlNzI1OTE3ODczYmFlNGExYmVjMTk4ZiIseyJ0Ijo5LCJvIjoxLCJhIjoxLCJzcCI6MC4yOTcyfV0/d327371796/AtlasOrbit1Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJjYzBjMTQ4ZGJlNzI1OTE3ODczYmFlNGExYmVjMTk4ZiIseyJ0Ijo5LCJvIjoxLCJhIjoxLCJzcCI6MC4zODM1fV0/1dfc967dd7/AtlasOrbit1Normal.png"
         },
         "Orbit1Intermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjEsImEiOjEsInNwIjowLjEyNDZ9XQ/ce1f30868e/AtlasOrbit1Intermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjEsImEiOjEsInNwIjowLjIxMDl9XQ/572af5283f/AtlasOrbit1Intermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjEsImEiOjEsInNwIjowLjI5NzJ9XQ/66a5255dca/AtlasOrbit1Intermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjEsImEiOjEsInNwIjowLjM4MzV9XQ/744ee105c6/AtlasOrbit1Intermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI4N2I2Y2U1ZGQ1NjAyY2U3ZTE1MmUyZTk3NzAxNzE1MiIseyJ0IjoxMCwibyI6MSwiYSI6MSwic3AiOjAuMTI0Nn1d/3bf3d5744b/AtlasOrbit1Intermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI4N2I2Y2U1ZGQ1NjAyY2U3ZTE1MmUyZTk3NzAxNzE1MiIseyJ0IjoxMCwibyI6MSwiYSI6MSwic3AiOjAuMjEwOX1d/574b72f264/AtlasOrbit1Intermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI4N2I2Y2U1ZGQ1NjAyY2U3ZTE1MmUyZTk3NzAxNzE1MiIseyJ0IjoxMCwibyI6MSwiYSI6MSwic3AiOjAuMjk3Mn1d/de832dd56c/AtlasOrbit1Intermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI4N2I2Y2U1ZGQ1NjAyY2U3ZTE1MmUyZTk3NzAxNzE1MiIseyJ0IjoxMCwibyI6MSwiYSI6MSwic3AiOjAuMzgzNX1d/841243d8df/AtlasOrbit1Intermediate.png"
         },
         "Orbit1Active": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjEsImEiOjEsInNwIjowLjEyNDZ9XQ/0512d0d8b2/AtlasOrbit1Active.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjEsImEiOjEsInNwIjowLjIxMDl9XQ/73162109d4/AtlasOrbit1Active.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjEsImEiOjEsInNwIjowLjI5NzJ9XQ/be79f8f2ca/AtlasOrbit1Active.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjEsImEiOjEsInNwIjowLjM4MzV9XQ/c942216ca6/AtlasOrbit1Active.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI5YmVjMjg3MjRjYzExYzMwNWVkMDU2NmQ1MjJhZjljNSIseyJ0IjoxMSwibyI6MSwiYSI6MSwic3AiOjAuMTI0Nn1d/d86b08a967/AtlasOrbit1Active.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI5YmVjMjg3MjRjYzExYzMwNWVkMDU2NmQ1MjJhZjljNSIseyJ0IjoxMSwibyI6MSwiYSI6MSwic3AiOjAuMjEwOX1d/4f615fe6c9/AtlasOrbit1Active.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI5YmVjMjg3MjRjYzExYzMwNWVkMDU2NmQ1MjJhZjljNSIseyJ0IjoxMSwibyI6MSwiYSI6MSwic3AiOjAuMjk3Mn1d/b14e1750dd/AtlasOrbit1Active.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI5YmVjMjg3MjRjYzExYzMwNWVkMDU2NmQ1MjJhZjljNSIseyJ0IjoxMSwibyI6MSwiYSI6MSwic3AiOjAuMzgzNX1d/30bc4f1897/AtlasOrbit1Active.png"
         },
         "Orbit2Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MiwiYSI6MSwic3AiOjAuMTI0Nn1d/b942977593/AtlasOrbit2Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MiwiYSI6MSwic3AiOjAuMjEwOX1d/7662fbbead/AtlasOrbit2Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MiwiYSI6MSwic3AiOjAuMjk3Mn1d/0cf4d6df98/AtlasOrbit2Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MiwiYSI6MSwic3AiOjAuMzgzNX1d/5ed1b8a818/AtlasOrbit2Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJmZGEzN2ZmYzVjMzIyZGMxOGJiYmRkNTEwYzBkMWQ2NSIseyJ0Ijo5LCJvIjoyLCJhIjoxLCJzcCI6MC4xMjQ2fV0/f38d299de2/AtlasOrbit2Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJmZGEzN2ZmYzVjMzIyZGMxOGJiYmRkNTEwYzBkMWQ2NSIseyJ0Ijo5LCJvIjoyLCJhIjoxLCJzcCI6MC4yMTA5fV0/65e31240ff/AtlasOrbit2Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJmZGEzN2ZmYzVjMzIyZGMxOGJiYmRkNTEwYzBkMWQ2NSIseyJ0Ijo5LCJvIjoyLCJhIjoxLCJzcCI6MC4yOTcyfV0/aec54c6ad0/AtlasOrbit2Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJmZGEzN2ZmYzVjMzIyZGMxOGJiYmRkNTEwYzBkMWQ2NSIseyJ0Ijo5LCJvIjoyLCJhIjoxLCJzcCI6MC4zODM1fV0/2e6d507c23/AtlasOrbit2Normal.png"
         },
         "Orbit2Intermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjIsImEiOjEsInNwIjowLjEyNDZ9XQ/6e3bd0fa5f/AtlasOrbit2Intermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjIsImEiOjEsInNwIjowLjIxMDl9XQ/2edeb4e1ad/AtlasOrbit2Intermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjIsImEiOjEsInNwIjowLjI5NzJ9XQ/67dc64fa71/AtlasOrbit2Intermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjIsImEiOjEsInNwIjowLjM4MzV9XQ/4d6e845b19/AtlasOrbit2Intermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI4OWI3OWYyOWM1ZDM1ODFkNjI4N2QyNDU5ZmJjYmRlZSIseyJ0IjoxMCwibyI6MiwiYSI6MSwic3AiOjAuMTI0Nn1d/e2d2a6a6d9/AtlasOrbit2Intermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI4OWI3OWYyOWM1ZDM1ODFkNjI4N2QyNDU5ZmJjYmRlZSIseyJ0IjoxMCwibyI6MiwiYSI6MSwic3AiOjAuMjEwOX1d/0761f25c94/AtlasOrbit2Intermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI4OWI3OWYyOWM1ZDM1ODFkNjI4N2QyNDU5ZmJjYmRlZSIseyJ0IjoxMCwibyI6MiwiYSI6MSwic3AiOjAuMjk3Mn1d/0e00e6f824/AtlasOrbit2Intermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI4OWI3OWYyOWM1ZDM1ODFkNjI4N2QyNDU5ZmJjYmRlZSIseyJ0IjoxMCwibyI6MiwiYSI6MSwic3AiOjAuMzgzNX1d/37edf34476/AtlasOrbit2Intermediate.png"
         },
         "Orbit2Active": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjIsImEiOjEsInNwIjowLjEyNDZ9XQ/7f4b0a9c6b/AtlasOrbit2Active.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjIsImEiOjEsInNwIjowLjIxMDl9XQ/1ae84c5e7c/AtlasOrbit2Active.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjIsImEiOjEsInNwIjowLjI5NzJ9XQ/c86dc4cd53/AtlasOrbit2Active.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjIsImEiOjEsInNwIjowLjM4MzV9XQ/4e31bb3138/AtlasOrbit2Active.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJhYmExYmVmZWFkNTkyZjc0M2JhMzBjZDlkYTMzMjM4YyIseyJ0IjoxMSwibyI6MiwiYSI6MSwic3AiOjAuMTI0Nn1d/65c1fc1cd7/AtlasOrbit2Active.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJhYmExYmVmZWFkNTkyZjc0M2JhMzBjZDlkYTMzMjM4YyIseyJ0IjoxMSwibyI6MiwiYSI6MSwic3AiOjAuMjEwOX1d/e749a107b8/AtlasOrbit2Active.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJhYmExYmVmZWFkNTkyZjc0M2JhMzBjZDlkYTMzMjM4YyIseyJ0IjoxMSwibyI6MiwiYSI6MSwic3AiOjAuMjk3Mn1d/b79bbd8f66/AtlasOrbit2Active.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJhYmExYmVmZWFkNTkyZjc0M2JhMzBjZDlkYTMzMjM4YyIseyJ0IjoxMSwibyI6MiwiYSI6MSwic3AiOjAuMzgzNX1d/5c8c99ee64/AtlasOrbit2Active.png"
         },
         "Orbit3Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MywiYSI6MSwic3AiOjAuMTI0Nn1d/65258d6e36/AtlasOrbit3Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MywiYSI6MSwic3AiOjAuMjEwOX1d/76f3d3fa17/AtlasOrbit3Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MywiYSI6MSwic3AiOjAuMjk3Mn1d/b94e27a245/AtlasOrbit3Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MywiYSI6MSwic3AiOjAuMzgzNX1d/9cbee44b94/AtlasOrbit3Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJhZTNmZGNhYWNkNzIxNWFiYzE4ZDRiM2E5MDY1NGJiNSIseyJ0Ijo5LCJvIjozLCJhIjoxLCJzcCI6MC4xMjQ2fV0/17a94e49f6/AtlasOrbit3Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJhZTNmZGNhYWNkNzIxNWFiYzE4ZDRiM2E5MDY1NGJiNSIseyJ0Ijo5LCJvIjozLCJhIjoxLCJzcCI6MC4yMTA5fV0/b8bcd73796/AtlasOrbit3Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJhZTNmZGNhYWNkNzIxNWFiYzE4ZDRiM2E5MDY1NGJiNSIseyJ0Ijo5LCJvIjozLCJhIjoxLCJzcCI6MC4yOTcyfV0/affb1c71c0/AtlasOrbit3Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJhZTNmZGNhYWNkNzIxNWFiYzE4ZDRiM2E5MDY1NGJiNSIseyJ0Ijo5LCJvIjozLCJhIjoxLCJzcCI6MC4zODM1fV0/bb9ef6d433/AtlasOrbit3Normal.png"
         },
         "Orbit3Intermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjMsImEiOjEsInNwIjowLjEyNDZ9XQ/d40ffd646c/AtlasOrbit3Intermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjMsImEiOjEsInNwIjowLjIxMDl9XQ/0afca71bca/AtlasOrbit3Intermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjMsImEiOjEsInNwIjowLjI5NzJ9XQ/c35ec96908/AtlasOrbit3Intermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjMsImEiOjEsInNwIjowLjM4MzV9XQ/a2ef23c93a/AtlasOrbit3Intermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJhY2FhMDNjNDE3OWJhNzdlNTVkNzUyNmVlMTlhNGYyNCIseyJ0IjoxMCwibyI6MywiYSI6MSwic3AiOjAuMTI0Nn1d/63465c1aef/AtlasOrbit3Intermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJhY2FhMDNjNDE3OWJhNzdlNTVkNzUyNmVlMTlhNGYyNCIseyJ0IjoxMCwibyI6MywiYSI6MSwic3AiOjAuMjEwOX1d/13bd71cf3a/AtlasOrbit3Intermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJhY2FhMDNjNDE3OWJhNzdlNTVkNzUyNmVlMTlhNGYyNCIseyJ0IjoxMCwibyI6MywiYSI6MSwic3AiOjAuMjk3Mn1d/a6565ab35c/AtlasOrbit3Intermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJhY2FhMDNjNDE3OWJhNzdlNTVkNzUyNmVlMTlhNGYyNCIseyJ0IjoxMCwibyI6MywiYSI6MSwic3AiOjAuMzgzNX1d/93421dd67b/AtlasOrbit3Intermediate.png"
         },
         "Orbit3Active": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjMsImEiOjEsInNwIjowLjEyNDZ9XQ/c46a57d2b1/AtlasOrbit3Active.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjMsImEiOjEsInNwIjowLjIxMDl9XQ/d94b057fe5/AtlasOrbit3Active.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjMsImEiOjEsInNwIjowLjI5NzJ9XQ/69e7b539eb/AtlasOrbit3Active.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjMsImEiOjEsInNwIjowLjM4MzV9XQ/95680eb364/AtlasOrbit3Active.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIzMzlkNmE4N2VlOTQ1ZTgzNDNmMWJjNzJlZDk0YTcwYyIseyJ0IjoxMSwibyI6MywiYSI6MSwic3AiOjAuMTI0Nn1d/4840559b16/AtlasOrbit3Active.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIzMzlkNmE4N2VlOTQ1ZTgzNDNmMWJjNzJlZDk0YTcwYyIseyJ0IjoxMSwibyI6MywiYSI6MSwic3AiOjAuMjEwOX1d/729820ee52/AtlasOrbit3Active.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIzMzlkNmE4N2VlOTQ1ZTgzNDNmMWJjNzJlZDk0YTcwYyIseyJ0IjoxMSwibyI6MywiYSI6MSwic3AiOjAuMjk3Mn1d/4eb447b73c/AtlasOrbit3Active.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIzMzlkNmE4N2VlOTQ1ZTgzNDNmMWJjNzJlZDk0YTcwYyIseyJ0IjoxMSwibyI6MywiYSI6MSwic3AiOjAuMzgzNX1d/15a0fec1f4/AtlasOrbit3Active.png"
         },
         "Orbit4Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NCwiYSI6MSwic3AiOjAuMTI0Nn1d/41b80885a2/AtlasOrbit4Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NCwiYSI6MSwic3AiOjAuMjEwOX1d/00b3b627ff/AtlasOrbit4Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NCwiYSI6MSwic3AiOjAuMjk3Mn1d/5ea864477c/AtlasOrbit4Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NCwiYSI6MSwic3AiOjAuMzgzNX1d/c32166768c/AtlasOrbit4Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJkNzdiM2U2NWE3Y2FmMGY1NzFmMmM5ZDNjZWIxZTkxMCIseyJ0Ijo5LCJvIjo0LCJhIjoxLCJzcCI6MC4xMjQ2fV0/36c36ecbaa/AtlasOrbit4Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJkNzdiM2U2NWE3Y2FmMGY1NzFmMmM5ZDNjZWIxZTkxMCIseyJ0Ijo5LCJvIjo0LCJhIjoxLCJzcCI6MC4yMTA5fV0/b37d01247c/AtlasOrbit4Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJkNzdiM2U2NWE3Y2FmMGY1NzFmMmM5ZDNjZWIxZTkxMCIseyJ0Ijo5LCJvIjo0LCJhIjoxLCJzcCI6MC4yOTcyfV0/f9c61469e1/AtlasOrbit4Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJkNzdiM2U2NWE3Y2FmMGY1NzFmMmM5ZDNjZWIxZTkxMCIseyJ0Ijo5LCJvIjo0LCJhIjoxLCJzcCI6MC4zODM1fV0/55b21db152/AtlasOrbit4Normal.png"
         },
         "Orbit4Intermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjQsImEiOjEsInNwIjowLjEyNDZ9XQ/7b9d7ec312/AtlasOrbit4Intermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjQsImEiOjEsInNwIjowLjIxMDl9XQ/94f17794fc/AtlasOrbit4Intermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjQsImEiOjEsInNwIjowLjI5NzJ9XQ/1a36aa3755/AtlasOrbit4Intermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjQsImEiOjEsInNwIjowLjM4MzV9XQ/e463bbb8a9/AtlasOrbit4Intermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI5MTBlMjJhNWQ2YzYyMTA3OTJhYmE0OTkzNDE4ZmIxOSIseyJ0IjoxMCwibyI6NCwiYSI6MSwic3AiOjAuMTI0Nn1d/2e161aeaa0/AtlasOrbit4Intermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI5MTBlMjJhNWQ2YzYyMTA3OTJhYmE0OTkzNDE4ZmIxOSIseyJ0IjoxMCwibyI6NCwiYSI6MSwic3AiOjAuMjEwOX1d/887c7d4fc9/AtlasOrbit4Intermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI5MTBlMjJhNWQ2YzYyMTA3OTJhYmE0OTkzNDE4ZmIxOSIseyJ0IjoxMCwibyI6NCwiYSI6MSwic3AiOjAuMjk3Mn1d/b5d4301df0/AtlasOrbit4Intermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI5MTBlMjJhNWQ2YzYyMTA3OTJhYmE0OTkzNDE4ZmIxOSIseyJ0IjoxMCwibyI6NCwiYSI6MSwic3AiOjAuMzgzNX1d/d686997d1a/AtlasOrbit4Intermediate.png"
         },
         "Orbit4Active": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjQsImEiOjEsInNwIjowLjEyNDZ9XQ/a6fc945c89/AtlasOrbit4Active.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjQsImEiOjEsInNwIjowLjIxMDl9XQ/accaa0044e/AtlasOrbit4Active.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjQsImEiOjEsInNwIjowLjI5NzJ9XQ/5c01a935e3/AtlasOrbit4Active.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjQsImEiOjEsInNwIjowLjM4MzV9XQ/697209e478/AtlasOrbit4Active.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIzODM2OTY2MDIzYWM0OGJhMzgwZTBiZDlmYzA4NmQ2NSIseyJ0IjoxMSwibyI6NCwiYSI6MSwic3AiOjAuMTI0Nn1d/723a5904cb/AtlasOrbit4Active.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIzODM2OTY2MDIzYWM0OGJhMzgwZTBiZDlmYzA4NmQ2NSIseyJ0IjoxMSwibyI6NCwiYSI6MSwic3AiOjAuMjEwOX1d/d8488551bd/AtlasOrbit4Active.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIzODM2OTY2MDIzYWM0OGJhMzgwZTBiZDlmYzA4NmQ2NSIseyJ0IjoxMSwibyI6NCwiYSI6MSwic3AiOjAuMjk3Mn1d/c219aa33a8/AtlasOrbit4Active.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIzODM2OTY2MDIzYWM0OGJhMzgwZTBiZDlmYzA4NmQ2NSIseyJ0IjoxMSwibyI6NCwiYSI6MSwic3AiOjAuMzgzNX1d/645f958fe0/AtlasOrbit4Active.png"
         },
         "Orbit5Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NSwiYSI6MSwic3AiOjAuMTI0Nn1d/4a4d712c20/AtlasOrbit5Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NSwiYSI6MSwic3AiOjAuMjEwOX1d/a8aaf164d7/AtlasOrbit5Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NSwiYSI6MSwic3AiOjAuMjk3Mn1d/597c803d25/AtlasOrbit5Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NSwiYSI6MSwic3AiOjAuMzgzNX1d/8d2fcebb79/AtlasOrbit5Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJmZDM1ODk5YjIxNDA0MzZhNWFhYzk5M2I1OThlYWYwOCIseyJ0Ijo5LCJvIjo1LCJhIjoxLCJzcCI6MC4xMjQ2fV0/db293276c0/AtlasOrbit5Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJmZDM1ODk5YjIxNDA0MzZhNWFhYzk5M2I1OThlYWYwOCIseyJ0Ijo5LCJvIjo1LCJhIjoxLCJzcCI6MC4yMTA5fV0/7e498aeda8/AtlasOrbit5Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJmZDM1ODk5YjIxNDA0MzZhNWFhYzk5M2I1OThlYWYwOCIseyJ0Ijo5LCJvIjo1LCJhIjoxLCJzcCI6MC4yOTcyfV0/27ba2006dc/AtlasOrbit5Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJmZDM1ODk5YjIxNDA0MzZhNWFhYzk5M2I1OThlYWYwOCIseyJ0Ijo5LCJvIjo1LCJhIjoxLCJzcCI6MC4zODM1fV0/af698765ea/AtlasOrbit5Normal.png"
         },
         "Orbit5Intermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjUsImEiOjEsInNwIjowLjEyNDZ9XQ/cf1a29e4b4/AtlasOrbit5Intermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjUsImEiOjEsInNwIjowLjIxMDl9XQ/38956ef32e/AtlasOrbit5Intermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjUsImEiOjEsInNwIjowLjI5NzJ9XQ/230dfa512a/AtlasOrbit5Intermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjUsImEiOjEsInNwIjowLjM4MzV9XQ/2d0731d87b/AtlasOrbit5Intermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJiZWU4NjA5OGNmOGEwMzBiYzdkZWQwYmVjNWNiNzJjOSIseyJ0IjoxMCwibyI6NSwiYSI6MSwic3AiOjAuMTI0Nn1d/76bbe69454/AtlasOrbit5Intermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJiZWU4NjA5OGNmOGEwMzBiYzdkZWQwYmVjNWNiNzJjOSIseyJ0IjoxMCwibyI6NSwiYSI6MSwic3AiOjAuMjEwOX1d/479fae0fb7/AtlasOrbit5Intermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJiZWU4NjA5OGNmOGEwMzBiYzdkZWQwYmVjNWNiNzJjOSIseyJ0IjoxMCwibyI6NSwiYSI6MSwic3AiOjAuMjk3Mn1d/19b6fd696b/AtlasOrbit5Intermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJiZWU4NjA5OGNmOGEwMzBiYzdkZWQwYmVjNWNiNzJjOSIseyJ0IjoxMCwibyI6NSwiYSI6MSwic3AiOjAuMzgzNX1d/46e039e733/AtlasOrbit5Intermediate.png"
         },
         "Orbit5Active": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjUsImEiOjEsInNwIjowLjEyNDZ9XQ/c0d305904b/AtlasOrbit5Active.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjUsImEiOjEsInNwIjowLjIxMDl9XQ/796aa9fff1/AtlasOrbit5Active.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjUsImEiOjEsInNwIjowLjI5NzJ9XQ/eff8c23aba/AtlasOrbit5Active.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjUsImEiOjEsInNwIjowLjM4MzV9XQ/481037f2f0/AtlasOrbit5Active.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJhMzAxY2ZjOTkyOTE2NzIzZjAxZmU5MjQ1ZGMwNDMyOCIseyJ0IjoxMSwibyI6NSwiYSI6MSwic3AiOjAuMTI0Nn1d/5ababbc44d/AtlasOrbit5Active.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJhMzAxY2ZjOTkyOTE2NzIzZjAxZmU5MjQ1ZGMwNDMyOCIseyJ0IjoxMSwibyI6NSwiYSI6MSwic3AiOjAuMjEwOX1d/f3f7211551/AtlasOrbit5Active.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJhMzAxY2ZjOTkyOTE2NzIzZjAxZmU5MjQ1ZGMwNDMyOCIseyJ0IjoxMSwibyI6NSwiYSI6MSwic3AiOjAuMjk3Mn1d/96a9b9e93b/AtlasOrbit5Active.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJhMzAxY2ZjOTkyOTE2NzIzZjAxZmU5MjQ1ZGMwNDMyOCIseyJ0IjoxMSwibyI6NSwiYSI6MSwic3AiOjAuMzgzNX1d/b11454490d/AtlasOrbit5Active.png"
         },
         "Orbit6Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NiwiYSI6MSwic3AiOjAuMTI0Nn1d/ba409896f5/AtlasOrbit6Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NiwiYSI6MSwic3AiOjAuMjEwOX1d/236dd767f2/AtlasOrbit6Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NiwiYSI6MSwic3AiOjAuMjk3Mn1d/33a9a4c5b4/AtlasOrbit6Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NiwiYSI6MSwic3AiOjAuMzgzNX1d/1b699beaef/AtlasOrbit6Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIzMDMwMTUzODA1MjgwYjVmNzcxNzhjMTNlOWQyNjI5ZSIseyJ0Ijo5LCJvIjo2LCJhIjoxLCJzcCI6MC4xMjQ2fV0/571182830d/AtlasOrbit6Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIzMDMwMTUzODA1MjgwYjVmNzcxNzhjMTNlOWQyNjI5ZSIseyJ0Ijo5LCJvIjo2LCJhIjoxLCJzcCI6MC4yMTA5fV0/19baa7fd90/AtlasOrbit6Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIzMDMwMTUzODA1MjgwYjVmNzcxNzhjMTNlOWQyNjI5ZSIseyJ0Ijo5LCJvIjo2LCJhIjoxLCJzcCI6MC4yOTcyfV0/3e7ea53d3a/AtlasOrbit6Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIzMDMwMTUzODA1MjgwYjVmNzcxNzhjMTNlOWQyNjI5ZSIseyJ0Ijo5LCJvIjo2LCJhIjoxLCJzcCI6MC4zODM1fV0/34c2ed8eaf/AtlasOrbit6Normal.png"
         },
         "Orbit6Intermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjYsImEiOjEsInNwIjowLjEyNDZ9XQ/0a4903dfa7/AtlasOrbit6Intermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjYsImEiOjEsInNwIjowLjIxMDl9XQ/ef04dfc71e/AtlasOrbit6Intermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjYsImEiOjEsInNwIjowLjI5NzJ9XQ/b8792402b2/AtlasOrbit6Intermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjYsImEiOjEsInNwIjowLjM4MzV9XQ/2e1b63f7ae/AtlasOrbit6Intermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJmMzNmZmE5YmIzNWRmZmFmNjg2NDc1Yjc2N2M5ZWNmNSIseyJ0IjoxMCwibyI6NiwiYSI6MSwic3AiOjAuMTI0Nn1d/f404029dbf/AtlasOrbit6Intermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJmMzNmZmE5YmIzNWRmZmFmNjg2NDc1Yjc2N2M5ZWNmNSIseyJ0IjoxMCwibyI6NiwiYSI6MSwic3AiOjAuMjEwOX1d/4623241c17/AtlasOrbit6Intermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJmMzNmZmE5YmIzNWRmZmFmNjg2NDc1Yjc2N2M5ZWNmNSIseyJ0IjoxMCwibyI6NiwiYSI6MSwic3AiOjAuMjk3Mn1d/e5fbe75475/AtlasOrbit6Intermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJmMzNmZmE5YmIzNWRmZmFmNjg2NDc1Yjc2N2M5ZWNmNSIseyJ0IjoxMCwibyI6NiwiYSI6MSwic3AiOjAuMzgzNX1d/617af35f3b/AtlasOrbit6Intermediate.png"
         },
         "Orbit6Active": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjYsImEiOjEsInNwIjowLjEyNDZ9XQ/37fdec8313/AtlasOrbit6Active.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjYsImEiOjEsInNwIjowLjIxMDl9XQ/67011fe264/AtlasOrbit6Active.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjYsImEiOjEsInNwIjowLjI5NzJ9XQ/6b55d938f0/AtlasOrbit6Active.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjYsImEiOjEsInNwIjowLjM4MzV9XQ/de9b2b2c8c/AtlasOrbit6Active.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI2ZjUzMmU2ZmY1OGFmNzMwZWUxODkwNzVjNmMzNTQwMiIseyJ0IjoxMSwibyI6NiwiYSI6MSwic3AiOjAuMTI0Nn1d/97730a8eb6/AtlasOrbit6Active.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI2ZjUzMmU2ZmY1OGFmNzMwZWUxODkwNzVjNmMzNTQwMiIseyJ0IjoxMSwibyI6NiwiYSI6MSwic3AiOjAuMjEwOX1d/9caafddd3a/AtlasOrbit6Active.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI2ZjUzMmU2ZmY1OGFmNzMwZWUxODkwNzVjNmMzNTQwMiIseyJ0IjoxMSwibyI6NiwiYSI6MSwic3AiOjAuMjk3Mn1d/fb02625567/AtlasOrbit6Active.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI2ZjUzMmU2ZmY1OGFmNzMwZWUxODkwNzVjNmMzNTQwMiIseyJ0IjoxMSwibyI6NiwiYSI6MSwic3AiOjAuMzgzNX1d/82f37e4f71/AtlasOrbit6Active.png"
         },
         "LineConnectorNormal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTIsImEiOjEsInNwIjowLjEyNDZ9XQ/7b1185bffc/AtlasLineConnectorNormal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTIsImEiOjEsInNwIjowLjIxMDl9XQ/c54badb9a9/AtlasLineConnectorNormal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTIsImEiOjEsInNwIjowLjI5NzJ9XQ/2f3de3ab5f/AtlasLineConnectorNormal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTIsImEiOjEsInNwIjowLjM4MzV9XQ/9722255e02/AtlasLineConnectorNormal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJlNDE5MmFjMTljMjA2ZWUyMDc1YzZmMmEzYTUwNDFlYSIseyJ0IjoxMiwiYSI6MSwic3AiOjAuMTI0Nn1d/8ea42413e0/AtlasLineConnectorNormal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJlNDE5MmFjMTljMjA2ZWUyMDc1YzZmMmEzYTUwNDFlYSIseyJ0IjoxMiwiYSI6MSwic3AiOjAuMjEwOX1d/b119082161/AtlasLineConnectorNormal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJlNDE5MmFjMTljMjA2ZWUyMDc1YzZmMmEzYTUwNDFlYSIseyJ0IjoxMiwiYSI6MSwic3AiOjAuMjk3Mn1d/0250ed0734/AtlasLineConnectorNormal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJlNDE5MmFjMTljMjA2ZWUyMDc1YzZmMmEzYTUwNDFlYSIseyJ0IjoxMiwiYSI6MSwic3AiOjAuMzgzNX1d/82e4b5cdfa/AtlasLineConnectorNormal.png"
         },
         "LineConnectorIntermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTMsImEiOjEsInNwIjowLjEyNDZ9XQ/49010b9ff7/AtlasLineConnectorIntermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTMsImEiOjEsInNwIjowLjIxMDl9XQ/bbca16a08b/AtlasLineConnectorIntermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTMsImEiOjEsInNwIjowLjI5NzJ9XQ/ed558c6c8a/AtlasLineConnectorIntermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTMsImEiOjEsInNwIjowLjM4MzV9XQ/be24277b13/AtlasLineConnectorIntermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI1NDUyNzBiN2I3NTdjMzcwOGY5NjViNGU0MjM0ZWNkMyIseyJ0IjoxMywiYSI6MSwic3AiOjAuMTI0Nn1d/9d664fae23/AtlasLineConnectorIntermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI1NDUyNzBiN2I3NTdjMzcwOGY5NjViNGU0MjM0ZWNkMyIseyJ0IjoxMywiYSI6MSwic3AiOjAuMjEwOX1d/2bc164a6c5/AtlasLineConnectorIntermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI1NDUyNzBiN2I3NTdjMzcwOGY5NjViNGU0MjM0ZWNkMyIseyJ0IjoxMywiYSI6MSwic3AiOjAuMjk3Mn1d/c370b2138a/AtlasLineConnectorIntermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI1NDUyNzBiN2I3NTdjMzcwOGY5NjViNGU0MjM0ZWNkMyIseyJ0IjoxMywiYSI6MSwic3AiOjAuMzgzNX1d/24ded3b5f2/AtlasLineConnectorIntermediate.png"
         },
         "LineConnectorActive": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTQsImEiOjEsInNwIjowLjEyNDZ9XQ/978ceb21bd/AtlasLineConnectorActive.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTQsImEiOjEsInNwIjowLjIxMDl9XQ/083ca71180/AtlasLineConnectorActive.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTQsImEiOjEsInNwIjowLjI5NzJ9XQ/488697f310/AtlasLineConnectorActive.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTQsImEiOjEsInNwIjowLjM4MzV9XQ/d23e6da22f/AtlasLineConnectorActive.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJhYTRlYTkyMmEwZDVkNDFkNjZhNDQ2NWNjMjQzMWEyZCIseyJ0IjoxNCwiYSI6MSwic3AiOjAuMTI0Nn1d/d6b5a87954/AtlasLineConnectorActive.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJhYTRlYTkyMmEwZDVkNDFkNjZhNDQ2NWNjMjQzMWEyZCIseyJ0IjoxNCwiYSI6MSwic3AiOjAuMjEwOX1d/92c66e0643/AtlasLineConnectorActive.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJhYTRlYTkyMmEwZDVkNDFkNjZhNDQ2NWNjMjQzMWEyZCIseyJ0IjoxNCwiYSI6MSwic3AiOjAuMjk3Mn1d/06cc00591b/AtlasLineConnectorActive.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJhYTRlYTkyMmEwZDVkNDFkNjZhNDQ2NWNjMjQzMWEyZCIseyJ0IjoxNCwiYSI6MSwic3AiOjAuMzgzNX1d/678bea2970/AtlasLineConnectorActive.png"
         },
         "PSLineDeco": {
             "0.1246": "https://web.poecdn.com/gen/image/WzIwLDE0LHsiaCI6ZmFsc2UsImsiOiIyREFydC9VSUltYWdlcy9JbkdhbWUvQXRsYXNTY3JlZW4vQXRsYXNQYXNzaXZlU2tpbGxTY3JlZW5Pcm5hbWVudDEiLCJzcCI6MC4xMjQ2fV0/33da0d044d/Line_Deco.png",
@@ -15101,10 +15101,10 @@
             "0.3835": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlblN0YXJ0Iiwic3AiOjAuMzgzNX1d/88260e171c/AtlasPassiveSkillScreenStart.png"
         },
         "AtlasPassiveBackground": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6ODcsInNwIjowLjEyNDZ9XQ/32dcda9a02/AtlasPassiveBackground.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6ODcsInNwIjowLjIxMDl9XQ/95d3a6fff8/AtlasPassiveBackground.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6ODcsInNwIjowLjI5NzJ9XQ/d420f90e58/AtlasPassiveBackground.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6ODcsInNwIjowLjM4MzV9XQ/e5e147f659/AtlasPassiveBackground.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJmZDg1MzFhZTc5MWMyZWRhOGM5ZjE5MzFkNThiNDZjNyIseyJ0Ijo4Nywic3AiOjAuMTI0Nn1d/dba657a965/AtlasPassiveBackground.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJmZDg1MzFhZTc5MWMyZWRhOGM5ZjE5MzFkNThiNDZjNyIseyJ0Ijo4Nywic3AiOjAuMjEwOX1d/a75cf8aa52/AtlasPassiveBackground.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJmZDg1MzFhZTc5MWMyZWRhOGM5ZjE5MzFkNThiNDZjNyIseyJ0Ijo4Nywic3AiOjAuMjk3Mn1d/eefa1d26f9/AtlasPassiveBackground.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJmZDg1MzFhZTc5MWMyZWRhOGM5ZjE5MzFkNThiNDZjNyIseyJ0Ijo4Nywic3AiOjAuMzgzNX1d/da71971490/AtlasPassiveBackground.png"
         }
     },
     "constants": {
@@ -15133,7 +15133,7 @@
     "skillSprites": {
         "normalActive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?fad254d3",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?d1df3ec3",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNode1.png": {
                         "x": 0,
@@ -15414,7 +15414,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?c8f07703",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?2a03991b",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNode1.png": {
                         "x": 0,
@@ -15695,7 +15695,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?a2c3c969",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?e66c4a50",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNode1.png": {
                         "x": 0,
@@ -15976,7 +15976,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?24b23f0b",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?25a81290",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNode1.png": {
                         "x": 0,
@@ -16259,7 +16259,7 @@
         ],
         "notableActive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?fad254d3",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?d1df3ec3",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNotable.png": {
                         "x": 0,
@@ -17068,7 +17068,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?c8f07703",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?2a03991b",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNotable.png": {
                         "x": 0,
@@ -17877,7 +17877,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?a2c3c969",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?e66c4a50",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNotable.png": {
                         "x": 0,
@@ -18686,7 +18686,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?24b23f0b",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?25a81290",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNotable.png": {
                         "x": 0,
@@ -19497,25 +19497,25 @@
         ],
         "keystoneActive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?fad254d3",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?d1df3ec3",
                 "coords": []
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?c8f07703",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?2a03991b",
                 "coords": []
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?a2c3c969",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?e66c4a50",
                 "coords": []
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?24b23f0b",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?25a81290",
                 "coords": []
             }
         ],
         "normalInactive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?1a86c21d",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?d4da1a17",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNode1.png": {
                         "x": 0,
@@ -19796,7 +19796,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?0de59889",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?b1f50b96",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNode1.png": {
                         "x": 0,
@@ -20077,7 +20077,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?2ff9f7fa",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?125c7f25",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNode1.png": {
                         "x": 0,
@@ -20358,7 +20358,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?f0ee2cbe",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?24d96cec",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNode1.png": {
                         "x": 0,
@@ -20641,7 +20641,7 @@
         ],
         "notableInactive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?1a86c21d",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?d4da1a17",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNotable.png": {
                         "x": 0,
@@ -21450,7 +21450,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?0de59889",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?b1f50b96",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNotable.png": {
                         "x": 0,
@@ -22259,7 +22259,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?2ff9f7fa",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?125c7f25",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNotable.png": {
                         "x": 0,
@@ -23068,7 +23068,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?f0ee2cbe",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?24d96cec",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNotable.png": {
                         "x": 0,
@@ -23879,25 +23879,25 @@
         ],
         "keystoneInactive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?1a86c21d",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?d4da1a17",
                 "coords": []
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?0de59889",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?b1f50b96",
                 "coords": []
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?2ff9f7fa",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?125c7f25",
                 "coords": []
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?f0ee2cbe",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?24d96cec",
                 "coords": []
             }
         ],
         "mastery": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-0.png?58a36a7e",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-0.png?c1e30213",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -24112,7 +24112,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-1.png?c3973fdd",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-1.png?b09a4e3d",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -24327,7 +24327,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-2.png?aed7fb90",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-2.png?f80908fd",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -24542,7 +24542,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-3.png?7cae1f58",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-groups-3.png?f66b6b83",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -24759,7 +24759,7 @@
         ],
         "masteryActive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-0.png?39653de4",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-0.png?d640239d",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -24974,7 +24974,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-1.png?e42c3df4",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-1.png?d4c18025",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -25189,7 +25189,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-2.png?365f466e",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-2.png?7f1897b0",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
@@ -25404,7 +25404,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-3.png?b225bde6",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-active-3.png?2bd63749",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasPassiveMasteryAbyss.png": {
                         "x": 0,
