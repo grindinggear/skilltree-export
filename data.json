@@ -1010,7 +1010,7 @@
                 "Cover Enemies in Ash when they Hit you"
             ],
             "reminderText": [
-                "(Being Covered in Ash applies 20% less Movement Speed and 20% increased Fire Damage Taken, and lasts for 4 seconds)"
+                "(Being Covered in Ash applies 20% less Movement Speed and 20% increased Fire Damage Taken, for 4 seconds)"
             ],
             "group": 3,
             "orbit": 2,
@@ -4499,10 +4499,10 @@
             "isNotable": true,
             "stats": [
                 "Enemies Hindered by you take 10% increased Chaos Damage",
-                "Hinder Enemies on Hit with Spells, with 30% reduced Movement Speed"
+                "Hinder Enemies on Hit with Spells"
             ],
             "reminderText": [
-                "(Hindered enemies have reduced movement speed)"
+                "(Hinder reduces movement speed by 30% for 4 seconds)"
             ],
             "group": 59,
             "orbit": 2,
@@ -4654,22 +4654,22 @@
     "max_y": 2878,
     "assets": {
         "PSSkillFrame": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MCwic3AiOjAuMTI0Nn1d/4874910c47/Skill_Frame_Unallocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MCwic3AiOjAuMjEwOX1d/3e5b817806/Skill_Frame_Unallocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MCwic3AiOjAuMjk3Mn1d/157ccd3eb9/Skill_Frame_Unallocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MCwic3AiOjAuMzgzNX1d/31b37b4c99/Skill_Frame_Unallocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI1MjlhOTdjZDJiNDVjODc0NzlkYmNiYzYwZDNlMmVjZCIseyJ0IjowLCJzcCI6MC4xMjQ2fV0/1150441d82/Skill_Frame_Unallocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI1MjlhOTdjZDJiNDVjODc0NzlkYmNiYzYwZDNlMmVjZCIseyJ0IjowLCJzcCI6MC4yMTA5fV0/8b112b822c/Skill_Frame_Unallocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI1MjlhOTdjZDJiNDVjODc0NzlkYmNiYzYwZDNlMmVjZCIseyJ0IjowLCJzcCI6MC4yOTcyfV0/3e85a7d62a/Skill_Frame_Unallocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI1MjlhOTdjZDJiNDVjODc0NzlkYmNiYzYwZDNlMmVjZCIseyJ0IjowLCJzcCI6MC4zODM1fV0/34f081560b/Skill_Frame_Unallocated.png"
         },
         "PSSkillFrameHighlighted": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Miwic3AiOjAuMTI0Nn1d/12a5c40b4b/Skill_Frame_CanAllocate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Miwic3AiOjAuMjEwOX1d/138e133fba/Skill_Frame_CanAllocate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Miwic3AiOjAuMjk3Mn1d/afd4b6bad5/Skill_Frame_CanAllocate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Miwic3AiOjAuMzgzNX1d/9354a3e29e/Skill_Frame_CanAllocate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIyYWRlYmQ2ZTU1YWU5MGQ3NWUyZjg4YzRmZDY3Y2FkNiIseyJ0IjoyLCJzcCI6MC4xMjQ2fV0/307665ad59/Skill_Frame_CanAllocate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIyYWRlYmQ2ZTU1YWU5MGQ3NWUyZjg4YzRmZDY3Y2FkNiIseyJ0IjoyLCJzcCI6MC4yMTA5fV0/64bc073d94/Skill_Frame_CanAllocate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIyYWRlYmQ2ZTU1YWU5MGQ3NWUyZjg4YzRmZDY3Y2FkNiIseyJ0IjoyLCJzcCI6MC4yOTcyfV0/f715e506da/Skill_Frame_CanAllocate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIyYWRlYmQ2ZTU1YWU5MGQ3NWUyZjg4YzRmZDY3Y2FkNiIseyJ0IjoyLCJzcCI6MC4zODM1fV0/888764a545/Skill_Frame_CanAllocate.png"
         },
         "PSSkillFrameActive": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MSwic3AiOjAuMTI0Nn1d/0ae0582589/Skill_Frame_Allocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MSwic3AiOjAuMjEwOX1d/8f675d6cc4/Skill_Frame_Allocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MSwic3AiOjAuMjk3Mn1d/544d5706b4/Skill_Frame_Allocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MSwic3AiOjAuMzgzNX1d/70d8e5ba02/Skill_Frame_Allocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI4YzYxMjZlMDgzMDI3NDM2ODMyZjJhZGQ2ZWFiZTAwOSIseyJ0IjoxLCJzcCI6MC4xMjQ2fV0/dc7cfddd4e/Skill_Frame_Allocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI4YzYxMjZlMDgzMDI3NDM2ODMyZjJhZGQ2ZWFiZTAwOSIseyJ0IjoxLCJzcCI6MC4yMTA5fV0/9d80030ae3/Skill_Frame_Allocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI4YzYxMjZlMDgzMDI3NDM2ODMyZjJhZGQ2ZWFiZTAwOSIseyJ0IjoxLCJzcCI6MC4yOTcyfV0/b8f69e0560/Skill_Frame_Allocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI4YzYxMjZlMDgzMDI3NDM2ODMyZjJhZGQ2ZWFiZTAwOSIseyJ0IjoxLCJzcCI6MC4zODM1fV0/8d039ed8f0/Skill_Frame_Allocated.png"
         },
         "PSGroupBackground1": {
             "0.1246": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5Hcm91cEJhY2tncm91bmRTbWFsbCIsInNwIjowLjEyNDZ9XQ/fa0f03d1f4/Group_Background_1.png",
@@ -4690,166 +4690,166 @@
             "0.3835": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9QYXNzaXZlU2tpbGxTY3JlZW5Hcm91cEJhY2tncm91bmRMYXJnZUhhbGYiLCJzcCI6MC4zODM1fV0/ddf32c5faf/Group_Background_3.png"
         },
         "NotableFrameUnallocated": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Niwic3AiOjAuMTI0Nn1d/510ed57317/NotableFrameUnallocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Niwic3AiOjAuMjEwOX1d/352e60eb39/NotableFrameUnallocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Niwic3AiOjAuMjk3Mn1d/9a4b472a2f/NotableFrameUnallocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Niwic3AiOjAuMzgzNX1d/f457cc3d80/NotableFrameUnallocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJkZmM2ZjVmMjY5NjY3YWM4OTMzODFkZmQ4ZWE0MzU4ZSIseyJ0Ijo2LCJzcCI6MC4xMjQ2fV0/fdb17a5d20/NotableFrameUnallocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJkZmM2ZjVmMjY5NjY3YWM4OTMzODFkZmQ4ZWE0MzU4ZSIseyJ0Ijo2LCJzcCI6MC4yMTA5fV0/a5a6e982b1/NotableFrameUnallocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJkZmM2ZjVmMjY5NjY3YWM4OTMzODFkZmQ4ZWE0MzU4ZSIseyJ0Ijo2LCJzcCI6MC4yOTcyfV0/902585f507/NotableFrameUnallocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJkZmM2ZjVmMjY5NjY3YWM4OTMzODFkZmQ4ZWE0MzU4ZSIseyJ0Ijo2LCJzcCI6MC4zODM1fV0/1f18491bc4/NotableFrameUnallocated.png"
         },
         "NotableFrameCanAllocate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OCwic3AiOjAuMTI0Nn1d/f6d0355624/NotableFrameCanAllocate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OCwic3AiOjAuMjEwOX1d/7994ce77b2/NotableFrameCanAllocate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OCwic3AiOjAuMjk3Mn1d/33bb815795/NotableFrameCanAllocate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OCwic3AiOjAuMzgzNX1d/b93c7f89bc/NotableFrameCanAllocate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI4OTU3MzNmOGNkNmMzMWU2MjBkZTE5NDczYjRlMzUyOSIseyJ0Ijo4LCJzcCI6MC4xMjQ2fV0/784c1c89ff/NotableFrameCanAllocate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI4OTU3MzNmOGNkNmMzMWU2MjBkZTE5NDczYjRlMzUyOSIseyJ0Ijo4LCJzcCI6MC4yMTA5fV0/8b4fc8b80b/NotableFrameCanAllocate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI4OTU3MzNmOGNkNmMzMWU2MjBkZTE5NDczYjRlMzUyOSIseyJ0Ijo4LCJzcCI6MC4yOTcyfV0/51f6a6da48/NotableFrameCanAllocate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI4OTU3MzNmOGNkNmMzMWU2MjBkZTE5NDczYjRlMzUyOSIseyJ0Ijo4LCJzcCI6MC4zODM1fV0/3047e5fea8/NotableFrameCanAllocate.png"
         },
         "NotableFrameAllocated": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Nywic3AiOjAuMTI0Nn1d/4b42e8359a/NotableFrameAllocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Nywic3AiOjAuMjEwOX1d/18e45f6767/NotableFrameAllocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Nywic3AiOjAuMjk3Mn1d/1f628f6311/NotableFrameAllocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Nywic3AiOjAuMzgzNX1d/624500d681/NotableFrameAllocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIxOTM1MThhM2MxNzhkYmQ4YmU3MGJkOGZmODg5NTkwZCIseyJ0Ijo3LCJzcCI6MC4xMjQ2fV0/63b37347ad/NotableFrameAllocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIxOTM1MThhM2MxNzhkYmQ4YmU3MGJkOGZmODg5NTkwZCIseyJ0Ijo3LCJzcCI6MC4yMTA5fV0/764edaaf59/NotableFrameAllocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIxOTM1MThhM2MxNzhkYmQ4YmU3MGJkOGZmODg5NTkwZCIseyJ0Ijo3LCJzcCI6MC4yOTcyfV0/a7ff54e8f6/NotableFrameAllocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIxOTM1MThhM2MxNzhkYmQ4YmU3MGJkOGZmODg5NTkwZCIseyJ0Ijo3LCJzcCI6MC4zODM1fV0/2470ef5977/NotableFrameAllocated.png"
         },
         "KeystoneFrameUnallocated": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Mywic3AiOjAuMTI0Nn1d/e4d6465f09/KeystoneFrameUnallocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Mywic3AiOjAuMjEwOX1d/e154dfadf6/KeystoneFrameUnallocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Mywic3AiOjAuMjk3Mn1d/39a4035ad7/KeystoneFrameUnallocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6Mywic3AiOjAuMzgzNX1d/4ba547e08c/KeystoneFrameUnallocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIyMjIyNDg4YjQzYTgzMzgwNjU3ZDQ2YjYwOGI5MTQ0OSIseyJ0IjozLCJzcCI6MC4xMjQ2fV0/b4f6b8bab7/KeystoneFrameUnallocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIyMjIyNDg4YjQzYTgzMzgwNjU3ZDQ2YjYwOGI5MTQ0OSIseyJ0IjozLCJzcCI6MC4yMTA5fV0/a101b7310a/KeystoneFrameUnallocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIyMjIyNDg4YjQzYTgzMzgwNjU3ZDQ2YjYwOGI5MTQ0OSIseyJ0IjozLCJzcCI6MC4yOTcyfV0/ecc540f1d0/KeystoneFrameUnallocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIyMjIyNDg4YjQzYTgzMzgwNjU3ZDQ2YjYwOGI5MTQ0OSIseyJ0IjozLCJzcCI6MC4zODM1fV0/89b98ec7aa/KeystoneFrameUnallocated.png"
         },
         "KeystoneFrameCanAllocate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NSwic3AiOjAuMTI0Nn1d/87c33b6288/KeystoneFrameCanAllocate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NSwic3AiOjAuMjEwOX1d/702f9d1d6d/KeystoneFrameCanAllocate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NSwic3AiOjAuMjk3Mn1d/d46752122e/KeystoneFrameCanAllocate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NSwic3AiOjAuMzgzNX1d/b7c93603d4/KeystoneFrameCanAllocate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI0ZDFjYWUzZWIyY2Q0ZjBlOGM3Y2QzOTRlMzk1ZTNhOCIseyJ0Ijo1LCJzcCI6MC4xMjQ2fV0/e043405daf/KeystoneFrameCanAllocate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI0ZDFjYWUzZWIyY2Q0ZjBlOGM3Y2QzOTRlMzk1ZTNhOCIseyJ0Ijo1LCJzcCI6MC4yMTA5fV0/bf08faf993/KeystoneFrameCanAllocate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI0ZDFjYWUzZWIyY2Q0ZjBlOGM3Y2QzOTRlMzk1ZTNhOCIseyJ0Ijo1LCJzcCI6MC4yOTcyfV0/116993dc5f/KeystoneFrameCanAllocate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI0ZDFjYWUzZWIyY2Q0ZjBlOGM3Y2QzOTRlMzk1ZTNhOCIseyJ0Ijo1LCJzcCI6MC4zODM1fV0/1981541025/KeystoneFrameCanAllocate.png"
         },
         "KeystoneFrameAllocated": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NCwic3AiOjAuMTI0Nn1d/dd9f39f1b7/KeystoneFrameAllocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NCwic3AiOjAuMjEwOX1d/bcd9fd8788/KeystoneFrameAllocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NCwic3AiOjAuMjk3Mn1d/f623ec4270/KeystoneFrameAllocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6NCwic3AiOjAuMzgzNX1d/88938886c7/KeystoneFrameAllocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIzNDU1ZjRhYTAyYmZkZDRmYTVlMTA4MWQwOWM2ZDBmNSIseyJ0Ijo0LCJzcCI6MC4xMjQ2fV0/d9cfabc771/KeystoneFrameAllocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIzNDU1ZjRhYTAyYmZkZDRmYTVlMTA4MWQwOWM2ZDBmNSIseyJ0Ijo0LCJzcCI6MC4yMTA5fV0/ecf20103b5/KeystoneFrameAllocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIzNDU1ZjRhYTAyYmZkZDRmYTVlMTA4MWQwOWM2ZDBmNSIseyJ0Ijo0LCJzcCI6MC4yOTcyfV0/3b4d890bd1/KeystoneFrameAllocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIzNDU1ZjRhYTAyYmZkZDRmYTVlMTA4MWQwOWM2ZDBmNSIseyJ0Ijo0LCJzcCI6MC4zODM1fV0/964fb76b95/KeystoneFrameAllocated.png"
         },
         "Orbit1Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwic3AiOjAuMTI0Nn1d/bfe6d100c9/Orbit1Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwic3AiOjAuMjEwOX1d/9843ee3601/Orbit1Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwic3AiOjAuMjk3Mn1d/27ce37d068/Orbit1Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6MSwic3AiOjAuMzgzNX1d/01a44e3cfd/Orbit1Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI5MzdhOWQyNGEyOGRkYWRhMGUxMWZmNTY5ZThjOWQwOSIseyJ0Ijo5LCJvIjoxLCJzcCI6MC4xMjQ2fV0/9ad9b57a9b/Orbit1Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI5MzdhOWQyNGEyOGRkYWRhMGUxMWZmNTY5ZThjOWQwOSIseyJ0Ijo5LCJvIjoxLCJzcCI6MC4yMTA5fV0/3ccb4ff7c7/Orbit1Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI5MzdhOWQyNGEyOGRkYWRhMGUxMWZmNTY5ZThjOWQwOSIseyJ0Ijo5LCJvIjoxLCJzcCI6MC4yOTcyfV0/b78c57fe44/Orbit1Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI5MzdhOWQyNGEyOGRkYWRhMGUxMWZmNTY5ZThjOWQwOSIseyJ0Ijo5LCJvIjoxLCJzcCI6MC4zODM1fV0/8473628bbe/Orbit1Normal.png"
         },
         "Orbit1Intermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjEsInNwIjowLjEyNDZ9XQ/e2499118d3/Orbit1Intermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjEsInNwIjowLjIxMDl9XQ/e4cf503fec/Orbit1Intermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjEsInNwIjowLjI5NzJ9XQ/fd9dcf6d0e/Orbit1Intermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjEsInNwIjowLjM4MzV9XQ/12f2022f07/Orbit1Intermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI5ZDhjYjk5MzA1MGUyNjBhZWQ1YzAyODE4OThjMGFhNiIseyJ0IjoxMCwibyI6MSwic3AiOjAuMTI0Nn1d/0282d9605e/Orbit1Intermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI5ZDhjYjk5MzA1MGUyNjBhZWQ1YzAyODE4OThjMGFhNiIseyJ0IjoxMCwibyI6MSwic3AiOjAuMjEwOX1d/b115b9949f/Orbit1Intermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI5ZDhjYjk5MzA1MGUyNjBhZWQ1YzAyODE4OThjMGFhNiIseyJ0IjoxMCwibyI6MSwic3AiOjAuMjk3Mn1d/b2b5225ae3/Orbit1Intermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI5ZDhjYjk5MzA1MGUyNjBhZWQ1YzAyODE4OThjMGFhNiIseyJ0IjoxMCwibyI6MSwic3AiOjAuMzgzNX1d/728e38a58b/Orbit1Intermediate.png"
         },
         "Orbit1Active": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjEsInNwIjowLjEyNDZ9XQ/843999d904/Orbit1Active.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjEsInNwIjowLjIxMDl9XQ/6ac810784d/Orbit1Active.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjEsInNwIjowLjI5NzJ9XQ/d29f19876d/Orbit1Active.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjEsInNwIjowLjM4MzV9XQ/a66fdd9072/Orbit1Active.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJjNzYzNTdkOGE1ZjQ5YzIyNjYyNjhhZTU1M2FhZjBiZCIseyJ0IjoxMSwibyI6MSwic3AiOjAuMTI0Nn1d/1002ed727c/Orbit1Active.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJjNzYzNTdkOGE1ZjQ5YzIyNjYyNjhhZTU1M2FhZjBiZCIseyJ0IjoxMSwibyI6MSwic3AiOjAuMjEwOX1d/a940d5deee/Orbit1Active.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJjNzYzNTdkOGE1ZjQ5YzIyNjYyNjhhZTU1M2FhZjBiZCIseyJ0IjoxMSwibyI6MSwic3AiOjAuMjk3Mn1d/08eac63d7d/Orbit1Active.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJjNzYzNTdkOGE1ZjQ5YzIyNjYyNjhhZTU1M2FhZjBiZCIseyJ0IjoxMSwibyI6MSwic3AiOjAuMzgzNX1d/e20f9b2f56/Orbit1Active.png"
         },
         "Orbit2Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6Miwic3AiOjAuMTI0Nn1d/9d1150b854/Orbit2Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6Miwic3AiOjAuMjEwOX1d/eb3a2a06ff/Orbit2Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6Miwic3AiOjAuMjk3Mn1d/b98f0cf0a6/Orbit2Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6Miwic3AiOjAuMzgzNX1d/6eebff774f/Orbit2Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJkZmI3YTBiMzljMWU0MTY4OWVjOWNhNGVlZTc1Y2MwOCIseyJ0Ijo5LCJvIjoyLCJzcCI6MC4xMjQ2fV0/24cfd57c84/Orbit2Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJkZmI3YTBiMzljMWU0MTY4OWVjOWNhNGVlZTc1Y2MwOCIseyJ0Ijo5LCJvIjoyLCJzcCI6MC4yMTA5fV0/2f4acb5b91/Orbit2Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJkZmI3YTBiMzljMWU0MTY4OWVjOWNhNGVlZTc1Y2MwOCIseyJ0Ijo5LCJvIjoyLCJzcCI6MC4yOTcyfV0/380b16fc09/Orbit2Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJkZmI3YTBiMzljMWU0MTY4OWVjOWNhNGVlZTc1Y2MwOCIseyJ0Ijo5LCJvIjoyLCJzcCI6MC4zODM1fV0/1fedcde7d0/Orbit2Normal.png"
         },
         "Orbit2Intermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjIsInNwIjowLjEyNDZ9XQ/d9790b6a66/Orbit2Intermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjIsInNwIjowLjIxMDl9XQ/f233cce39d/Orbit2Intermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjIsInNwIjowLjI5NzJ9XQ/bc96f06da2/Orbit2Intermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjIsInNwIjowLjM4MzV9XQ/2678cfc0bc/Orbit2Intermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJjMzEzZGU5MDkxYTMxNWI5MzM0NTllODk2MTViMDRhZCIseyJ0IjoxMCwibyI6Miwic3AiOjAuMTI0Nn1d/a8292bd5d2/Orbit2Intermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJjMzEzZGU5MDkxYTMxNWI5MzM0NTllODk2MTViMDRhZCIseyJ0IjoxMCwibyI6Miwic3AiOjAuMjEwOX1d/81fd4a754a/Orbit2Intermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJjMzEzZGU5MDkxYTMxNWI5MzM0NTllODk2MTViMDRhZCIseyJ0IjoxMCwibyI6Miwic3AiOjAuMjk3Mn1d/93a330504f/Orbit2Intermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJjMzEzZGU5MDkxYTMxNWI5MzM0NTllODk2MTViMDRhZCIseyJ0IjoxMCwibyI6Miwic3AiOjAuMzgzNX1d/296b9fe7df/Orbit2Intermediate.png"
         },
         "Orbit2Active": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjIsInNwIjowLjEyNDZ9XQ/aa4da2ed0a/Orbit2Active.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjIsInNwIjowLjIxMDl9XQ/ee16f0fb1f/Orbit2Active.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjIsInNwIjowLjI5NzJ9XQ/76636321db/Orbit2Active.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjIsInNwIjowLjM4MzV9XQ/76e3393326/Orbit2Active.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJhNmFhYWU1YjMzYTI0ZjBiYzFiODRmY2VkNWU5MDUzYSIseyJ0IjoxMSwibyI6Miwic3AiOjAuMTI0Nn1d/2068a14974/Orbit2Active.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJhNmFhYWU1YjMzYTI0ZjBiYzFiODRmY2VkNWU5MDUzYSIseyJ0IjoxMSwibyI6Miwic3AiOjAuMjEwOX1d/550987375d/Orbit2Active.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJhNmFhYWU1YjMzYTI0ZjBiYzFiODRmY2VkNWU5MDUzYSIseyJ0IjoxMSwibyI6Miwic3AiOjAuMjk3Mn1d/c90967df00/Orbit2Active.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJhNmFhYWU1YjMzYTI0ZjBiYzFiODRmY2VkNWU5MDUzYSIseyJ0IjoxMSwibyI6Miwic3AiOjAuMzgzNX1d/d2e48d8707/Orbit2Active.png"
         },
         "Orbit3Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6Mywic3AiOjAuMTI0Nn1d/b4d191aae5/Orbit3Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6Mywic3AiOjAuMjEwOX1d/e8c1e9440d/Orbit3Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6Mywic3AiOjAuMjk3Mn1d/1a7869b3dc/Orbit3Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6Mywic3AiOjAuMzgzNX1d/010b8760de/Orbit3Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIwMjAyZmIzZjY2MjY5MWY4ZjI0ZTBhOWM4NTcwZDAyMiIseyJ0Ijo5LCJvIjozLCJzcCI6MC4xMjQ2fV0/f195b91678/Orbit3Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIwMjAyZmIzZjY2MjY5MWY4ZjI0ZTBhOWM4NTcwZDAyMiIseyJ0Ijo5LCJvIjozLCJzcCI6MC4yMTA5fV0/d0783d3a3a/Orbit3Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIwMjAyZmIzZjY2MjY5MWY4ZjI0ZTBhOWM4NTcwZDAyMiIseyJ0Ijo5LCJvIjozLCJzcCI6MC4yOTcyfV0/715aeaeff9/Orbit3Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIwMjAyZmIzZjY2MjY5MWY4ZjI0ZTBhOWM4NTcwZDAyMiIseyJ0Ijo5LCJvIjozLCJzcCI6MC4zODM1fV0/32abc3d2c0/Orbit3Normal.png"
         },
         "Orbit3Intermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjMsInNwIjowLjEyNDZ9XQ/3d1d2639fc/Orbit3Intermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjMsInNwIjowLjIxMDl9XQ/5e8b9cef37/Orbit3Intermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjMsInNwIjowLjI5NzJ9XQ/e5aa095c89/Orbit3Intermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjMsInNwIjowLjM4MzV9XQ/0d93dcbcbf/Orbit3Intermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI5MmZiNTdlMGQyMTk4MjQ1MDAyMDQwOTIxZGQ3ZmNlZCIseyJ0IjoxMCwibyI6Mywic3AiOjAuMTI0Nn1d/fdfa0c6e4b/Orbit3Intermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI5MmZiNTdlMGQyMTk4MjQ1MDAyMDQwOTIxZGQ3ZmNlZCIseyJ0IjoxMCwibyI6Mywic3AiOjAuMjEwOX1d/e16e3c6b17/Orbit3Intermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI5MmZiNTdlMGQyMTk4MjQ1MDAyMDQwOTIxZGQ3ZmNlZCIseyJ0IjoxMCwibyI6Mywic3AiOjAuMjk3Mn1d/7ad81a3e64/Orbit3Intermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI5MmZiNTdlMGQyMTk4MjQ1MDAyMDQwOTIxZGQ3ZmNlZCIseyJ0IjoxMCwibyI6Mywic3AiOjAuMzgzNX1d/916204f272/Orbit3Intermediate.png"
         },
         "Orbit3Active": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjMsInNwIjowLjEyNDZ9XQ/d066389076/Orbit3Active.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjMsInNwIjowLjIxMDl9XQ/18bde9c442/Orbit3Active.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjMsInNwIjowLjI5NzJ9XQ/49cb9e33f1/Orbit3Active.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjMsInNwIjowLjM4MzV9XQ/fbb31b0c6b/Orbit3Active.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI1MTcwZWMzOTI0YTRmMzUwNTdhMWUwZGIxNTliOTczZSIseyJ0IjoxMSwibyI6Mywic3AiOjAuMTI0Nn1d/86b2d1b864/Orbit3Active.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI1MTcwZWMzOTI0YTRmMzUwNTdhMWUwZGIxNTliOTczZSIseyJ0IjoxMSwibyI6Mywic3AiOjAuMjEwOX1d/e7bc7886bb/Orbit3Active.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI1MTcwZWMzOTI0YTRmMzUwNTdhMWUwZGIxNTliOTczZSIseyJ0IjoxMSwibyI6Mywic3AiOjAuMjk3Mn1d/91ca42f66c/Orbit3Active.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI1MTcwZWMzOTI0YTRmMzUwNTdhMWUwZGIxNTliOTczZSIseyJ0IjoxMSwibyI6Mywic3AiOjAuMzgzNX1d/e18a85f3c6/Orbit3Active.png"
         },
         "Orbit4Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NCwic3AiOjAuMTI0Nn1d/e846f3c973/Orbit4Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NCwic3AiOjAuMjEwOX1d/c8ea70d8c0/Orbit4Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NCwic3AiOjAuMjk3Mn1d/d241f4656d/Orbit4Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NCwic3AiOjAuMzgzNX1d/f694a72748/Orbit4Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIxY2Y0NDc3MDAxN2NjNjQxYzhmNjgwZjc0M2JhMjllZCIseyJ0Ijo5LCJvIjo0LCJzcCI6MC4xMjQ2fV0/dcaa0aa2e0/Orbit4Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIxY2Y0NDc3MDAxN2NjNjQxYzhmNjgwZjc0M2JhMjllZCIseyJ0Ijo5LCJvIjo0LCJzcCI6MC4yMTA5fV0/44bd74eff3/Orbit4Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIxY2Y0NDc3MDAxN2NjNjQxYzhmNjgwZjc0M2JhMjllZCIseyJ0Ijo5LCJvIjo0LCJzcCI6MC4yOTcyfV0/5c7dbdb570/Orbit4Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIxY2Y0NDc3MDAxN2NjNjQxYzhmNjgwZjc0M2JhMjllZCIseyJ0Ijo5LCJvIjo0LCJzcCI6MC4zODM1fV0/0c0f891840/Orbit4Normal.png"
         },
         "Orbit4Intermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjQsInNwIjowLjEyNDZ9XQ/3f20a3a748/Orbit4Intermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjQsInNwIjowLjIxMDl9XQ/c60d9a9cd0/Orbit4Intermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjQsInNwIjowLjI5NzJ9XQ/0f75396011/Orbit4Intermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjQsInNwIjowLjM4MzV9XQ/9af509d0a3/Orbit4Intermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI4NmZjYjIzNDQwM2NhM2E2YzEwNDBmNTY0OTVlNDlkMiIseyJ0IjoxMCwibyI6NCwic3AiOjAuMTI0Nn1d/bdcc10393a/Orbit4Intermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI4NmZjYjIzNDQwM2NhM2E2YzEwNDBmNTY0OTVlNDlkMiIseyJ0IjoxMCwibyI6NCwic3AiOjAuMjEwOX1d/59f768ee30/Orbit4Intermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI4NmZjYjIzNDQwM2NhM2E2YzEwNDBmNTY0OTVlNDlkMiIseyJ0IjoxMCwibyI6NCwic3AiOjAuMjk3Mn1d/eff5135d02/Orbit4Intermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI4NmZjYjIzNDQwM2NhM2E2YzEwNDBmNTY0OTVlNDlkMiIseyJ0IjoxMCwibyI6NCwic3AiOjAuMzgzNX1d/2a562ae2a2/Orbit4Intermediate.png"
         },
         "Orbit4Active": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjQsInNwIjowLjEyNDZ9XQ/cc31c040ef/Orbit4Active.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjQsInNwIjowLjIxMDl9XQ/9fbad9b09b/Orbit4Active.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjQsInNwIjowLjI5NzJ9XQ/c88e6f9bdf/Orbit4Active.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjQsInNwIjowLjM4MzV9XQ/a0d3ed6176/Orbit4Active.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIwMDdhMzlkODY5NDgzZGY4YzhiYzZhNjgyMjk3MzNiZCIseyJ0IjoxMSwibyI6NCwic3AiOjAuMTI0Nn1d/1d7d1b7b00/Orbit4Active.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIwMDdhMzlkODY5NDgzZGY4YzhiYzZhNjgyMjk3MzNiZCIseyJ0IjoxMSwibyI6NCwic3AiOjAuMjEwOX1d/8f5f095c33/Orbit4Active.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIwMDdhMzlkODY5NDgzZGY4YzhiYzZhNjgyMjk3MzNiZCIseyJ0IjoxMSwibyI6NCwic3AiOjAuMjk3Mn1d/e8d4451762/Orbit4Active.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIwMDdhMzlkODY5NDgzZGY4YzhiYzZhNjgyMjk3MzNiZCIseyJ0IjoxMSwibyI6NCwic3AiOjAuMzgzNX1d/358e71694f/Orbit4Active.png"
         },
         "Orbit5Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NSwic3AiOjAuMTI0Nn1d/fee6adbea1/Orbit5Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NSwic3AiOjAuMjEwOX1d/7fc71fd050/Orbit5Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NSwic3AiOjAuMjk3Mn1d/50c770c45d/Orbit5Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6NSwic3AiOjAuMzgzNX1d/ea130091a4/Orbit5Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI3ODE5ZGNkZDJkZTcyMDI5NzNkOGJiZmI2ODRhZTM5ZCIseyJ0Ijo5LCJvIjo1LCJzcCI6MC4xMjQ2fV0/c47e994790/Orbit5Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI3ODE5ZGNkZDJkZTcyMDI5NzNkOGJiZmI2ODRhZTM5ZCIseyJ0Ijo5LCJvIjo1LCJzcCI6MC4yMTA5fV0/9972d988eb/Orbit5Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI3ODE5ZGNkZDJkZTcyMDI5NzNkOGJiZmI2ODRhZTM5ZCIseyJ0Ijo5LCJvIjo1LCJzcCI6MC4yOTcyfV0/d675987380/Orbit5Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI3ODE5ZGNkZDJkZTcyMDI5NzNkOGJiZmI2ODRhZTM5ZCIseyJ0Ijo5LCJvIjo1LCJzcCI6MC4zODM1fV0/7fb760c1ec/Orbit5Normal.png"
         },
         "Orbit5Intermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjUsInNwIjowLjEyNDZ9XQ/549241247a/Orbit5Intermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjUsInNwIjowLjIxMDl9XQ/7fafc6989d/Orbit5Intermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjUsInNwIjowLjI5NzJ9XQ/a1488c0308/Orbit5Intermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjUsInNwIjowLjM4MzV9XQ/ba9e775962/Orbit5Intermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI2MDBlOGQ2Y2YzNzYwZjAzMTYxNjJjMTMwZWNmNDU3NiIseyJ0IjoxMCwibyI6NSwic3AiOjAuMTI0Nn1d/d42bf4dc77/Orbit5Intermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI2MDBlOGQ2Y2YzNzYwZjAzMTYxNjJjMTMwZWNmNDU3NiIseyJ0IjoxMCwibyI6NSwic3AiOjAuMjEwOX1d/aa6b7be5d1/Orbit5Intermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI2MDBlOGQ2Y2YzNzYwZjAzMTYxNjJjMTMwZWNmNDU3NiIseyJ0IjoxMCwibyI6NSwic3AiOjAuMjk3Mn1d/6beacce2ab/Orbit5Intermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI2MDBlOGQ2Y2YzNzYwZjAzMTYxNjJjMTMwZWNmNDU3NiIseyJ0IjoxMCwibyI6NSwic3AiOjAuMzgzNX1d/5408b6d38f/Orbit5Intermediate.png"
         },
         "Orbit5Active": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjUsInNwIjowLjEyNDZ9XQ/b6c7965c82/Orbit5Active.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjUsInNwIjowLjIxMDl9XQ/a010a25a01/Orbit5Active.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjUsInNwIjowLjI5NzJ9XQ/6a5f941f40/Orbit5Active.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjUsInNwIjowLjM4MzV9XQ/77dee2e79c/Orbit5Active.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJhY2NjYzYxNDUzOTg4MzJiN2I3ODRmZjg4Y2VlMWNhNCIseyJ0IjoxMSwibyI6NSwic3AiOjAuMTI0Nn1d/89b1c727c8/Orbit5Active.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJhY2NjYzYxNDUzOTg4MzJiN2I3ODRmZjg4Y2VlMWNhNCIseyJ0IjoxMSwibyI6NSwic3AiOjAuMjEwOX1d/982d8707de/Orbit5Active.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJhY2NjYzYxNDUzOTg4MzJiN2I3ODRmZjg4Y2VlMWNhNCIseyJ0IjoxMSwibyI6NSwic3AiOjAuMjk3Mn1d/a613a355c5/Orbit5Active.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJhY2NjYzYxNDUzOTg4MzJiN2I3ODRmZjg4Y2VlMWNhNCIseyJ0IjoxMSwibyI6NSwic3AiOjAuMzgzNX1d/2e40fab72a/Orbit5Active.png"
         },
         "Orbit6Normal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6Niwic3AiOjAuMTI0Nn1d/a644f2dd2e/Orbit6Normal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6Niwic3AiOjAuMjEwOX1d/0eda992b47/Orbit6Normal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6Niwic3AiOjAuMjk3Mn1d/f56716c060/Orbit6Normal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6OSwibyI6Niwic3AiOjAuMzgzNX1d/9688bf1ec8/Orbit6Normal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIyMDg5MzYxMDgxMzRkYzNhNzQwM2E0YmYxYjBiMTNmYyIseyJ0Ijo5LCJvIjo2LCJzcCI6MC4xMjQ2fV0/a1c93ef19d/Orbit6Normal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIyMDg5MzYxMDgxMzRkYzNhNzQwM2E0YmYxYjBiMTNmYyIseyJ0Ijo5LCJvIjo2LCJzcCI6MC4yMTA5fV0/a8fd525bd6/Orbit6Normal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIyMDg5MzYxMDgxMzRkYzNhNzQwM2E0YmYxYjBiMTNmYyIseyJ0Ijo5LCJvIjo2LCJzcCI6MC4yOTcyfV0/3f90e0b902/Orbit6Normal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIyMDg5MzYxMDgxMzRkYzNhNzQwM2E0YmYxYjBiMTNmYyIseyJ0Ijo5LCJvIjo2LCJzcCI6MC4zODM1fV0/142302a3c9/Orbit6Normal.png"
         },
         "Orbit6Intermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjYsInNwIjowLjEyNDZ9XQ/6543e4477e/Orbit6Intermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjYsInNwIjowLjIxMDl9XQ/4e74f89395/Orbit6Intermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjYsInNwIjowLjI5NzJ9XQ/057cae6e62/Orbit6Intermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTAsIm8iOjYsInNwIjowLjM4MzV9XQ/f062fc8130/Orbit6Intermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIxZmExMWQyYzA4YmU1MmE5NGQ1MmYzYzExMzY4NmNmZCIseyJ0IjoxMCwibyI6Niwic3AiOjAuMTI0Nn1d/89011c4382/Orbit6Intermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIxZmExMWQyYzA4YmU1MmE5NGQ1MmYzYzExMzY4NmNmZCIseyJ0IjoxMCwibyI6Niwic3AiOjAuMjEwOX1d/334b347d41/Orbit6Intermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIxZmExMWQyYzA4YmU1MmE5NGQ1MmYzYzExMzY4NmNmZCIseyJ0IjoxMCwibyI6Niwic3AiOjAuMjk3Mn1d/113440961a/Orbit6Intermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIxZmExMWQyYzA4YmU1MmE5NGQ1MmYzYzExMzY4NmNmZCIseyJ0IjoxMCwibyI6Niwic3AiOjAuMzgzNX1d/168a4dc858/Orbit6Intermediate.png"
         },
         "Orbit6Active": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjYsInNwIjowLjEyNDZ9XQ/a89d0b6a76/Orbit6Active.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjYsInNwIjowLjIxMDl9XQ/66b5034307/Orbit6Active.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjYsInNwIjowLjI5NzJ9XQ/c8270cd534/Orbit6Active.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTEsIm8iOjYsInNwIjowLjM4MzV9XQ/4f8e644c0e/Orbit6Active.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIwMWFlMDlkODA4ODc5Y2Q2Njc3YzZhZjhkNWY1Y2NlMyIseyJ0IjoxMSwibyI6Niwic3AiOjAuMTI0Nn1d/1f2ac8f56c/Orbit6Active.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIwMWFlMDlkODA4ODc5Y2Q2Njc3YzZhZjhkNWY1Y2NlMyIseyJ0IjoxMSwibyI6Niwic3AiOjAuMjEwOX1d/4863acaddd/Orbit6Active.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIwMWFlMDlkODA4ODc5Y2Q2Njc3YzZhZjhkNWY1Y2NlMyIseyJ0IjoxMSwibyI6Niwic3AiOjAuMjk3Mn1d/a59c4a2177/Orbit6Active.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIwMWFlMDlkODA4ODc5Y2Q2Njc3YzZhZjhkNWY1Y2NlMyIseyJ0IjoxMSwibyI6Niwic3AiOjAuMzgzNX1d/b34c2805ce/Orbit6Active.png"
         },
         "LineConnectorNormal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTIsInNwIjowLjEyNDZ9XQ/b4b2edad5f/LineConnectorNormal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTIsInNwIjowLjIxMDl9XQ/4df3d575c1/LineConnectorNormal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTIsInNwIjowLjI5NzJ9XQ/85f4f1d715/LineConnectorNormal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTIsInNwIjowLjM4MzV9XQ/e6dac036cb/LineConnectorNormal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIwNzkwNjcwZmIwOTNmOGRiMmMwNWIxZjE4ZDY2OTA4NCIseyJ0IjoxMiwic3AiOjAuMTI0Nn1d/a5669353b7/LineConnectorNormal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIwNzkwNjcwZmIwOTNmOGRiMmMwNWIxZjE4ZDY2OTA4NCIseyJ0IjoxMiwic3AiOjAuMjEwOX1d/2ed8d9f9ba/LineConnectorNormal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIwNzkwNjcwZmIwOTNmOGRiMmMwNWIxZjE4ZDY2OTA4NCIseyJ0IjoxMiwic3AiOjAuMjk3Mn1d/ca5d9ec1fe/LineConnectorNormal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIwNzkwNjcwZmIwOTNmOGRiMmMwNWIxZjE4ZDY2OTA4NCIseyJ0IjoxMiwic3AiOjAuMzgzNX1d/4a12d775d4/LineConnectorNormal.png"
         },
         "LineConnectorIntermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTMsInNwIjowLjEyNDZ9XQ/90b74fc68e/LineConnectorIntermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTMsInNwIjowLjIxMDl9XQ/8558b71bcc/LineConnectorIntermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTMsInNwIjowLjI5NzJ9XQ/e0c84ab501/LineConnectorIntermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTMsInNwIjowLjM4MzV9XQ/2032a9e5f9/LineConnectorIntermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJiNmQzMWYyODkyZGNmMTJiNWM1ODJiY2Q3NzVjNTU5YyIseyJ0IjoxMywic3AiOjAuMTI0Nn1d/1a712dab5c/LineConnectorIntermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJiNmQzMWYyODkyZGNmMTJiNWM1ODJiY2Q3NzVjNTU5YyIseyJ0IjoxMywic3AiOjAuMjEwOX1d/856c015b95/LineConnectorIntermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJiNmQzMWYyODkyZGNmMTJiNWM1ODJiY2Q3NzVjNTU5YyIseyJ0IjoxMywic3AiOjAuMjk3Mn1d/e47dfc34cb/LineConnectorIntermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJiNmQzMWYyODkyZGNmMTJiNWM1ODJiY2Q3NzVjNTU5YyIseyJ0IjoxMywic3AiOjAuMzgzNX1d/f01f1161ba/LineConnectorIntermediate.png"
         },
         "LineConnectorActive": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTQsInNwIjowLjEyNDZ9XQ/bff270bf00/LineConnectorActive.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTQsInNwIjowLjIxMDl9XQ/22b772bf21/LineConnectorActive.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTQsInNwIjowLjI5NzJ9XQ/b79bbb2558/LineConnectorActive.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLDE0LHsidCI6MTQsInNwIjowLjM4MzV9XQ/56754ae609/LineConnectorActive.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI3NDY1MzhlODk4OWRjZjkzMWY3Njk0NWJlM2ZmYjRhYSIseyJ0IjoxNCwic3AiOjAuMTI0Nn1d/a10865ecf4/LineConnectorActive.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI3NDY1MzhlODk4OWRjZjkzMWY3Njk0NWJlM2ZmYjRhYSIseyJ0IjoxNCwic3AiOjAuMjEwOX1d/5b39096fca/LineConnectorActive.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI3NDY1MzhlODk4OWRjZjkzMWY3Njk0NWJlM2ZmYjRhYSIseyJ0IjoxNCwic3AiOjAuMjk3Mn1d/1c6a4422d6/LineConnectorActive.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI3NDY1MzhlODk4OWRjZjkzMWY3Njk0NWJlM2ZmYjRhYSIseyJ0IjoxNCwic3AiOjAuMzgzNX1d/256da2d414/LineConnectorActive.png"
         },
         "PSLineDeco": {
             "0.1246": "https://web.poecdn.com/gen/image/WzIwLDE0LHsiaCI6ZmFsc2UsInNwIjowLjEyNDZ9XQ/f5f36d1cea/Line_Deco.png",
@@ -4955,7 +4955,7 @@
     "skillSprites": {
         "normalActive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-0.jpg?1a3d593feaf419165fa0b816c8b9874e",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-0.jpg?2c61a3bf",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/axedmgspeed.png": {
                         "x": 0,
@@ -5032,7 +5032,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-1.jpg?9cf4311157f3024bb7bacf3713806b67",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-1.jpg?5a487901",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/axedmgspeed.png": {
                         "x": 0,
@@ -5109,7 +5109,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-2.jpg?8995d2f97dc96aafb1b3ed34d429b46b",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-2.jpg?c03d0f51",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/axedmgspeed.png": {
                         "x": 0,
@@ -5186,7 +5186,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-3.jpg?ad077042ac2f913eaa331eb009b889e6",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-3.jpg?8220a9f7",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/axedmgspeed.png": {
                         "x": 0,
@@ -5265,7 +5265,7 @@
         ],
         "notableActive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-0.jpg?1a3d593feaf419165fa0b816c8b9874e",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-0.jpg?2c61a3bf",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/Additionalprojectile.png": {
                         "x": 0,
@@ -5870,7 +5870,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-1.jpg?9cf4311157f3024bb7bacf3713806b67",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-1.jpg?5a487901",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/Additionalprojectile.png": {
                         "x": 0,
@@ -6475,7 +6475,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-2.jpg?8995d2f97dc96aafb1b3ed34d429b46b",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-2.jpg?c03d0f51",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/Additionalprojectile.png": {
                         "x": 0,
@@ -7080,7 +7080,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-3.jpg?ad077042ac2f913eaa331eb009b889e6",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-3.jpg?8220a9f7",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/Additionalprojectile.png": {
                         "x": 0,
@@ -7687,25 +7687,25 @@
         ],
         "keystoneActive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-0.jpg?1a3d593feaf419165fa0b816c8b9874e",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-0.jpg?2c61a3bf",
                 "coords": []
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-1.jpg?9cf4311157f3024bb7bacf3713806b67",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-1.jpg?5a487901",
                 "coords": []
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-2.jpg?8995d2f97dc96aafb1b3ed34d429b46b",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-2.jpg?c03d0f51",
                 "coords": []
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-3.jpg?ad077042ac2f913eaa331eb009b889e6",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-3.jpg?8220a9f7",
                 "coords": []
             }
         ],
         "normalInactive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-0.jpg?24a05cf6e9cdae8e78c322dd8a3c6fe1",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-0.jpg?d4a1755e",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/axedmgspeed.png": {
                         "x": 0,
@@ -7782,7 +7782,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-1.jpg?4e104485bd379fb2116c68e8b29cbee0",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-1.jpg?2919344e",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/axedmgspeed.png": {
                         "x": 0,
@@ -7859,7 +7859,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-2.jpg?6fbc368243d113aabe1902ceb9fe7222",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-2.jpg?272d50b0",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/axedmgspeed.png": {
                         "x": 0,
@@ -7936,7 +7936,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-3.jpg?4d8965fd09278aaab137cd8c80df3297",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-3.jpg?c3214bdb",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/axedmgspeed.png": {
                         "x": 0,
@@ -8015,7 +8015,7 @@
         ],
         "notableInactive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-0.jpg?24a05cf6e9cdae8e78c322dd8a3c6fe1",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-0.jpg?d4a1755e",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/Additionalprojectile.png": {
                         "x": 0,
@@ -8620,7 +8620,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-1.jpg?4e104485bd379fb2116c68e8b29cbee0",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-1.jpg?2919344e",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/Additionalprojectile.png": {
                         "x": 0,
@@ -9225,7 +9225,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-2.jpg?6fbc368243d113aabe1902ceb9fe7222",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-2.jpg?272d50b0",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/Additionalprojectile.png": {
                         "x": 0,
@@ -9830,7 +9830,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-3.jpg?4d8965fd09278aaab137cd8c80df3297",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-3.jpg?c3214bdb",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/Additionalprojectile.png": {
                         "x": 0,
@@ -10437,25 +10437,25 @@
         ],
         "keystoneInactive": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-0.jpg?24a05cf6e9cdae8e78c322dd8a3c6fe1",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-0.jpg?d4a1755e",
                 "coords": []
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-1.jpg?4e104485bd379fb2116c68e8b29cbee0",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-1.jpg?2919344e",
                 "coords": []
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-2.jpg?6fbc368243d113aabe1902ceb9fe7222",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-2.jpg?272d50b0",
                 "coords": []
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-3.jpg?4d8965fd09278aaab137cd8c80df3297",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-skills-disabled-3.jpg?c3214bdb",
                 "coords": []
             }
         ],
         "mastery": [
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-0.png?96c469bbc278cc43c0f65b424acb7dcd",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-0.png?f19b6ce4",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AltAttackDamageMastery.png": {
                         "x": 0,
@@ -10610,7 +10610,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-1.png?b56100b7b3384021e9c092237e1bd635",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-1.png?e217b1d4",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AltAttackDamageMastery.png": {
                         "x": 0,
@@ -10765,7 +10765,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-2.png?00966b37fd091d57b8bf6c40e2adf3e8",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-2.png?2e34883d",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AltAttackDamageMastery.png": {
                         "x": 0,
@@ -10920,7 +10920,7 @@
                 }
             },
             {
-                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-3.png?e5e46fa1c953e6f6dba57db596984ea5",
+                "filename": "https://web.poecdn.com/image/passive-skill/royale-groups-3.png?5ff6ca75",
                 "coords": {
                     "Art/2DArt/SkillIcons/passives/AltAttackDamageMastery.png": {
                         "x": 0,
