@@ -243,7 +243,7 @@
             "orbits": [
                 0
             ],
-            "backgroundOverride": 3,
+            "backgroundOverride": 4,
             "nodes": [
                 "65499"
             ]
@@ -2329,7 +2329,7 @@
                 2,
                 3
             ],
-            "backgroundOverride": 0,
+            "backgroundOverride": 4,
             "nodes": [
                 "21101",
                 "2826",
@@ -3018,6 +3018,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BlightNotable4.png",
             "isNotable": true,
             "stats": [
+                "25% increased effect of Modifiers on Blighted Maps",
                 "Blight Chests in Areas have 80% more chance to contain Blighted Maps"
             ],
             "group": 4,
@@ -3102,7 +3103,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 4,
             "orbit": 6,
@@ -3119,7 +3120,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 4,
             "orbit": 6,
@@ -3154,7 +3155,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 5,
             "orbit": 0,
@@ -3629,7 +3630,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 13,
             "orbit": 0,
@@ -4472,7 +4473,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 25,
             "orbit": 0,
@@ -4950,7 +4951,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 30,
             "orbit": 0,
@@ -5075,7 +5076,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BlightNotable5.png",
             "isNotable": true,
             "stats": [
-                "Blight Encounters in Areas spawn 100% more non-Unique Monsters",
+                "Blight Encounters in Areas spawn 100% more Non-Unique Monsters",
                 "Blight Monsters in Areas spawn 150% faster"
             ],
             "group": 31,
@@ -5132,7 +5133,7 @@
             "name": "Atlas Scarab Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ScarabNode1.png",
             "stats": [
-                "Unique Bosses have 1% chance to drop an additional Scarab"
+                "Map Bosses have 1% chance to drop an additional Scarab"
             ],
             "group": 33,
             "orbit": 2,
@@ -5149,7 +5150,7 @@
             "name": "Atlas Scarab Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ScarabNode1.png",
             "stats": [
-                "Unique Bosses have 1% chance to drop an additional Scarab"
+                "Map Bosses have 1% chance to drop an additional Scarab"
             ],
             "group": 33,
             "orbit": 2,
@@ -5165,7 +5166,7 @@
             "name": "Atlas Scarab Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ScarabNode1.png",
             "stats": [
-                "Unique Bosses have 1% chance to drop an additional Scarab"
+                "Map Bosses have 1% chance to drop an additional Scarab"
             ],
             "group": 33,
             "orbit": 2,
@@ -5198,7 +5199,7 @@
             "name": "Atlas Scarab Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ScarabNode1.png",
             "stats": [
-                "Unique Bosses have 1% chance to drop an additional Scarab"
+                "Map Bosses have 1% chance to drop an additional Scarab"
             ],
             "group": 33,
             "orbit": 2,
@@ -5215,7 +5216,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 34,
             "orbit": 0,
@@ -5329,7 +5330,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 36,
             "orbit": 0,
@@ -5416,7 +5417,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/Anarchy5.png",
             "isNotable": true,
             "stats": [
-                "Unique Bosses have 20% chance to be accompanied by two Rogue Exile Bodyguards"
+                "Map Bosses have 20% chance to be accompanied by two Rogue Exile Bodyguards"
             ],
             "reminderText": [
                 "(Rogue Exile Bodyguards take 80% less damage, and have additional Rewards.)"
@@ -5791,7 +5792,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/SynthesisNotable2.png",
             "isNotable": true,
             "stats": [
-                "+0.5% chance for a Synthesis Map to drop from Unique Bosses (Tier 11+)",
+                "+0.5% chance for a Synthesis Map to drop from Map Bosses (Tier 11+)",
                 "Monsters in Synthesis Maps have 2% chance to drop Synthesised Items"
             ],
             "group": 42,
@@ -5825,7 +5826,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/SynthesisNotable3.png",
             "isNotable": true,
             "stats": [
-                "+0.5% chance for a Synthesis Map to drop from Unique Bosses (Tier 11+)",
+                "+0.5% chance for a Synthesis Map to drop from Map Bosses (Tier 11+)",
                 "100% increased effect of Additional Modifiers on Unique Synthesis Maps"
             ],
             "group": 42,
@@ -5843,7 +5844,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/SynthesisNotable1.png",
             "isNotable": true,
             "stats": [
-                "+0.5% chance for a Synthesis Map to drop from Unique Bosses (Tier 11+)",
+                "+0.5% chance for a Synthesis Map to drop from Map Bosses (Tier 11+)",
                 "Synthesised Unique Items dropped in Areas have 3 Synthesised Implicit Modifiers"
             ],
             "group": 42,
@@ -6261,7 +6262,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 47,
             "orbit": 0,
@@ -6283,7 +6284,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 48,
             "orbit": 0,
@@ -6300,7 +6301,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 49,
             "orbit": 0,
@@ -6316,7 +6317,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 50,
             "orbit": 0,
@@ -6746,7 +6747,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 55,
             "orbit": 6,
@@ -6828,7 +6829,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 56,
             "orbit": 3,
@@ -6848,7 +6849,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 56,
             "orbit": 3,
@@ -6865,7 +6866,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 56,
             "orbit": 3,
@@ -6883,7 +6884,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 57,
             "orbit": 0,
@@ -7130,7 +7131,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/Mapnotable1.png",
             "isNotable": true,
             "stats": [
-                "Unique Map Bosses have 10% chance to add a free random craft to your Map device",
+                "10% chance on Completing Areas to gain a free use of a random Map crafting option",
                 "Maps dropped in Areas have 15% chance to be 1 tier higher"
             ],
             "group": 61,
@@ -7334,7 +7335,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 64,
             "orbit": 0,
@@ -7473,7 +7474,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 66,
             "orbit": 0,
@@ -7751,7 +7752,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/TormentNode1.png",
             "isNotable": true,
             "stats": [
-                "Map Boss has 10% chance to be surrounded by Tormented Spirits",
+                "Map Bosses have 10% chance to be surrounded by Tormented Spirits",
                 "30% more Quantity of Items dropped by Possessed Monsters in Areas"
             ],
             "group": 70,
@@ -7786,7 +7787,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 71,
             "orbit": 0,
@@ -7802,7 +7803,7 @@
             "name": "Map Boss Rarity",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/MapBossnode.png",
             "stats": [
-                "25% increased Rarity of Items dropped by Unique Bosses"
+                "25% increased Rarity of Items dropped by Map Bosses"
             ],
             "group": 72,
             "orbit": 2,
@@ -7818,7 +7819,7 @@
             "name": "Map Boss Rarity",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/MapBossnode.png",
             "stats": [
-                "25% increased Rarity of Items dropped by Unique Bosses"
+                "25% increased Rarity of Items dropped by Map Bosses"
             ],
             "group": 72,
             "orbit": 2,
@@ -7835,8 +7836,8 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/MapBossnotable2.png",
             "isNotable": true,
             "stats": [
-                "Unique Map Bosses have 3% chance to drop an additional Unique Item",
-                "Unique Bosses have 80% increased chance to drop a Fated Unique Item"
+                "Map Bosses have 3% chance to drop an additional Unique Item",
+                "Map Bosses have 80% increased chance to drop a Fated Unique Item"
             ],
             "group": 72,
             "orbit": 2,
@@ -7851,7 +7852,7 @@
             "name": "Map Boss Rarity",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/MapBossnode.png",
             "stats": [
-                "25% increased Rarity of Items dropped by Unique Bosses"
+                "25% increased Rarity of Items dropped by Map Bosses"
             ],
             "group": 72,
             "orbit": 2,
@@ -7880,7 +7881,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 73,
             "orbit": 0,
@@ -8210,7 +8211,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 79,
             "orbit": 0,
@@ -8226,7 +8227,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 79,
             "orbit": 4,
@@ -8829,7 +8830,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 84,
             "orbit": 3,
@@ -9075,7 +9076,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 85,
             "orbit": 0,
@@ -9096,7 +9097,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 86,
             "orbit": 6,
@@ -9115,7 +9116,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 86,
             "orbit": 6,
@@ -9133,7 +9134,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 86,
             "orbit": 6,
@@ -9192,8 +9193,8 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ElderShaperNotable1.png",
             "isNotable": true,
             "stats": [
-                "Unique Bosses have 2% chance to drop an Elder Guardian Map (Tier 14+)",
-                "Unique Bosses have 2% chance to drop a Shaper Guardian Map (Tier 14+)"
+                "Map Bosses have 2% chance to drop an Elder Guardian Map (Tier 14+)",
+                "Map Bosses have 2% chance to drop a Shaper Guardian Map (Tier 14+)"
             ],
             "group": 87,
             "orbit": 4,
@@ -9307,7 +9308,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ElderShaperNotable2.png",
             "isNotable": true,
             "stats": [
-                "Unique Bosses have 1% chance to drop an Elder Guardian Map (Tier 14+)",
+                "Map Bosses have 1% chance to drop an Elder Guardian Map (Tier 14+)",
                 "The Elder has +10% chance to drop a Watcher's Eye",
                 "The Shaper drops 3 additional Shaper Items"
             ],
@@ -9327,7 +9328,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ElderShaperNotable3.png",
             "isNotable": true,
             "stats": [
-                "Unique Bosses have 1% chance to drop a Shaper Guardian Map (Tier 14+)",
+                "Map Bosses have 1% chance to drop a Shaper Guardian Map (Tier 14+)",
                 "Shaper and Elder Guardians are healed and joined by an ally on first reaching 33% Life\nAllies have a chance to drop their Fragments"
             ],
             "reminderText": [
@@ -9383,7 +9384,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 88,
             "orbit": 0,
@@ -9688,7 +9689,7 @@
             "name": "Domination Shrine Duration",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ShrinesNode.png",
             "stats": [
-                "25% increased Duration of Shrine Effects on Players"
+                "25% increased Duration of Shrine Effects on Players in Areas"
             ],
             "group": 91,
             "orbit": 2,
@@ -9705,7 +9706,7 @@
             "name": "Domination Shrine Duration",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ShrinesNode.png",
             "stats": [
-                "25% increased Duration of Shrine Effects on Players"
+                "25% increased Duration of Shrine Effects on Players in Areas"
             ],
             "group": 91,
             "orbit": 2,
@@ -9738,7 +9739,7 @@
             "name": "Domination Shrine Duration",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ShrinesNode.png",
             "stats": [
-                "25% increased Duration of Shrine Effects on Players"
+                "25% increased Duration of Shrine Effects on Players in Areas"
             ],
             "group": 91,
             "orbit": 2,
@@ -9802,7 +9803,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 94,
             "orbit": 0,
@@ -9898,7 +9899,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 96,
             "orbit": 0,
@@ -10205,7 +10206,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 101,
             "orbit": 0,
@@ -10321,7 +10322,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 103,
             "orbit": 0,
@@ -10550,8 +10551,8 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/Shrines.png",
             "isNotable": true,
             "stats": [
-                "Shrines grant a random additional Shrine Effect",
-                "30% increased Effect of Shrine Effects on Players in Areas"
+                "30% increased Effect of Shrine Effects on Players in Areas",
+                "Shrines in Areas grant a random additional Shrine Effect"
             ],
             "group": 107,
             "orbit": 2,
@@ -10861,7 +10862,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 109,
             "orbit": 6,
@@ -10880,7 +10881,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 110,
             "orbit": 0,
@@ -10960,7 +10961,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 111,
             "orbit": 3,
@@ -10976,7 +10977,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 111,
             "orbit": 3,
@@ -10994,7 +10995,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 111,
             "orbit": 3,
@@ -11403,7 +11404,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 119,
             "orbit": 0,
@@ -11425,7 +11426,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 120,
             "orbit": 0,
@@ -11442,7 +11443,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 121,
             "orbit": 0,
@@ -11458,7 +11459,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 122,
             "orbit": 0,
@@ -11792,7 +11793,7 @@
             "isNotable": true,
             "stats": [
                 "Conquerors have 25% increased chance to drop a Conqueror's Exalted Orb",
-                "Unique Bosses have 25% increased chance to drop a Conqueror Map",
+                "Map Bosses have 25% increased chance to drop a Conqueror Map",
                 "Sirus has 10% chance to drop an Awakened Support Gem"
             ],
             "reminderText": [
@@ -12294,7 +12295,7 @@
             "name": "Atlas Currency Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/Sextantnode1.png",
             "stats": [
-                "Unique Map Bosses have 1% chance to drop additional Map Currency Items"
+                "Map Bosses have 1% chance to drop additional Map Currency Items"
             ],
             "group": 130,
             "orbit": 2,
@@ -12310,7 +12311,7 @@
             "name": "Atlas Currency Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/Sextantnode1.png",
             "stats": [
-                "Unique Map Bosses have 1% chance to drop additional Map Currency Items"
+                "Map Bosses have 1% chance to drop additional Map Currency Items"
             ],
             "group": 130,
             "orbit": 2,
@@ -12327,7 +12328,7 @@
             "name": "Atlas Currency Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/Sextantnode1.png",
             "stats": [
-                "Unique Map Bosses have 1% chance to drop additional Map Currency Items"
+                "Map Bosses have 1% chance to drop additional Map Currency Items"
             ],
             "group": 130,
             "orbit": 2,
@@ -12360,7 +12361,7 @@
             "name": "Atlas Currency Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/Sextantnode1.png",
             "stats": [
-                "Unique Map Bosses have 1% chance to drop additional Map Currency Items"
+                "Map Bosses have 1% chance to drop additional Map Currency Items"
             ],
             "group": 130,
             "orbit": 2,
@@ -12377,7 +12378,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 131,
             "orbit": 0,
@@ -12411,7 +12412,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 133,
             "orbit": 0,
@@ -13051,7 +13052,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 142,
             "orbit": 0,
@@ -13147,7 +13148,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 144,
             "orbit": 0,
@@ -13644,7 +13645,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 153,
             "orbit": 0,
@@ -14308,7 +14309,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on non-unique Maps"
+                "2% increased effect of Modifiers on Non-Unique Maps"
             ],
             "group": 161,
             "orbit": 0,
@@ -14403,7 +14404,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 164,
             "orbit": 6,
@@ -14419,7 +14420,7 @@
             "name": "Adjacent Map Drop Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BossMapDrops.png",
             "stats": [
-                "2% chance for an additional connected Map to drop from Unique Map Bosses"
+                "2% chance for an additional connected Map to drop from Map Bosses"
             ],
             "group": 164,
             "orbit": 6,
@@ -14693,7 +14694,7 @@
             "name": "Map Boss Rarity",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/MapBossnode.png",
             "stats": [
-                "25% increased Rarity of Items dropped by Unique Bosses"
+                "25% increased Rarity of Items dropped by Map Bosses"
             ],
             "group": 167,
             "orbit": 2,
@@ -14710,7 +14711,7 @@
             "name": "Map Boss Rarity",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/MapBossnode.png",
             "stats": [
-                "25% increased Rarity of Items dropped by Unique Bosses"
+                "25% increased Rarity of Items dropped by Map Bosses"
             ],
             "group": 167,
             "orbit": 2,
@@ -14727,8 +14728,11 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/MapBossnotable1.png",
             "isNotable": true,
             "stats": [
-                "Unique Bosses drop an additional Basic Currency Item",
-                "Unique Bosses have 20% chance to be Duplicated if possible"
+                "Map Bosses drop an additional Basic Currency Item",
+                "Map Bosses have 20% chance to be Duplicated if possible"
+            ],
+            "reminderText": [
+                "(Basic Currency includes any currency that drops from non-league content)"
             ],
             "group": 167,
             "orbit": 2,
@@ -14743,7 +14747,7 @@
             "name": "Map Boss Rarity",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/MapBossnode.png",
             "stats": [
-                "25% increased Rarity of Items dropped by Unique Bosses"
+                "25% increased Rarity of Items dropped by Map Bosses"
             ],
             "group": 167,
             "orbit": 2,
@@ -14870,22 +14874,22 @@
     "max_y": 0,
     "assets": {
         "PSSkillFrame": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI3NzMwMDMwNjI4MzBlOWNmZGE5MDI5ZDViOTZmYjYzOCIseyJ0IjowLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjEyNDZ9XQ/4b9cc73dde/Skill_Frame_Unallocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI3NzMwMDMwNjI4MzBlOWNmZGE5MDI5ZDViOTZmYjYzOCIseyJ0IjowLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjIxMDl9XQ/b821066ec8/Skill_Frame_Unallocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI3NzMwMDMwNjI4MzBlOWNmZGE5MDI5ZDViOTZmYjYzOCIseyJ0IjowLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjI5NzJ9XQ/0c28077b12/Skill_Frame_Unallocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI3NzMwMDMwNjI4MzBlOWNmZGE5MDI5ZDViOTZmYjYzOCIseyJ0IjowLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjM4MzV9XQ/8b31604dec/Skill_Frame_Unallocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJmY2QxZTI0Mjc0ZTlkYmY4OGNhNDU3ZTMwNzEwMDcwZSIseyJ0IjowLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjEyNDZ9XQ/5b40d97423/Skill_Frame_Unallocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJmY2QxZTI0Mjc0ZTlkYmY4OGNhNDU3ZTMwNzEwMDcwZSIseyJ0IjowLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjIxMDl9XQ/71982f9206/Skill_Frame_Unallocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJmY2QxZTI0Mjc0ZTlkYmY4OGNhNDU3ZTMwNzEwMDcwZSIseyJ0IjowLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjI5NzJ9XQ/72f51f3976/Skill_Frame_Unallocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJmY2QxZTI0Mjc0ZTlkYmY4OGNhNDU3ZTMwNzEwMDcwZSIseyJ0IjowLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZU5vcm1hbCIsImEiOjEsInNwIjowLjM4MzV9XQ/9c32e21d7f/Skill_Frame_Unallocated.png"
         },
         "PSSkillFrameHighlighted": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJmNDY4NWZhNmJiYTEyYTVjMWQ1NTZkMzhlYWJiYzVmYyIseyJ0IjoyLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMTI0Nn1d/5910a78277/Skill_Frame_CanAllocate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJmNDY4NWZhNmJiYTEyYTVjMWQ1NTZkMzhlYWJiYzVmYyIseyJ0IjoyLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMjEwOX1d/d76922f15f/Skill_Frame_CanAllocate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJmNDY4NWZhNmJiYTEyYTVjMWQ1NTZkMzhlYWJiYzVmYyIseyJ0IjoyLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMjk3Mn1d/fdb77b2caa/Skill_Frame_CanAllocate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJmNDY4NWZhNmJiYTEyYTVjMWQ1NTZkMzhlYWJiYzVmYyIseyJ0IjoyLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMzgzNX1d/e292b3f37a/Skill_Frame_CanAllocate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI1N2ExMWE1Yjk3OGUyM2JjOThkYzkxMTA2ODQ1MzllYiIseyJ0IjoyLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMTI0Nn1d/543ad7a744/Skill_Frame_CanAllocate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI1N2ExMWE1Yjk3OGUyM2JjOThkYzkxMTA2ODQ1MzllYiIseyJ0IjoyLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMjEwOX1d/b6ac85f918/Skill_Frame_CanAllocate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI1N2ExMWE1Yjk3OGUyM2JjOThkYzkxMTA2ODQ1MzllYiIseyJ0IjoyLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMjk3Mn1d/08e6ef80b9/Skill_Frame_CanAllocate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI1N2ExMWE1Yjk3OGUyM2JjOThkYzkxMTA2ODQ1MzllYiIseyJ0IjoyLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUNhbkFsbG9jYXRlIiwiYSI6MSwic3AiOjAuMzgzNX1d/1cd1c60841/Skill_Frame_CanAllocate.png"
         },
         "PSSkillFrameActive": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIyNDkyODM3Mzk1ZjUzZjVlNTQ4NjQ0M2EyYWZiODMyYiIseyJ0IjoxLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjEyNDZ9XQ/4e105e6e35/Skill_Frame_Allocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIyNDkyODM3Mzk1ZjUzZjVlNTQ4NjQ0M2EyYWZiODMyYiIseyJ0IjoxLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjIxMDl9XQ/32f8bef6d0/Skill_Frame_Allocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIyNDkyODM3Mzk1ZjUzZjVlNTQ4NjQ0M2EyYWZiODMyYiIseyJ0IjoxLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjI5NzJ9XQ/8d59abb595/Skill_Frame_Allocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIyNDkyODM3Mzk1ZjUzZjVlNTQ4NjQ0M2EyYWZiODMyYiIseyJ0IjoxLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjM4MzV9XQ/aa3b9dc33a/Skill_Frame_Allocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIzMDRjYTA5YzI1ZTQwOTEzYjM5NjczMGI3MmM2MjYxOSIseyJ0IjoxLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjEyNDZ9XQ/6767eeeb16/Skill_Frame_Allocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIzMDRjYTA5YzI1ZTQwOTEzYjM5NjczMGI3MmM2MjYxOSIseyJ0IjoxLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjIxMDl9XQ/b916eaffe3/Skill_Frame_Allocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIzMDRjYTA5YzI1ZTQwOTEzYjM5NjczMGI3MmM2MjYxOSIseyJ0IjoxLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjI5NzJ9XQ/73fabb4789/Skill_Frame_Allocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIzMDRjYTA5YzI1ZTQwOTEzYjM5NjczMGI3MmM2MjYxOSIseyJ0IjoxLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL1Bhc3NpdmVTa2lsbFNjcmVlblBhc3NpdmVGcmFtZUFjdGl2ZSIsImEiOjEsInNwIjowLjM4MzV9XQ/5468551739/Skill_Frame_Allocated.png"
         },
         "PSGroupBackground1": {
             "0.1246": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbkdyb3VwQmFja2dyb3VuZFNtYWxsIiwic3AiOjAuMTI0Nn1d/9ab24223aa/Group_Background_1.png",
@@ -14906,40 +14910,40 @@
             "0.3835": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlbkdyb3VwQmFja2dyb3VuZExhcmdlIiwic3AiOjAuMzgzNX1d/ee95794efc/Group_Background_3.png"
         },
         "NotableFrameUnallocated": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJhMzhjZjEwNTBiYmExYjJiOWJjMzA3NzA1ZGY5YjA5MCIseyJ0Ijo2LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMTI0Nn1d/03beffff0b/NotableFrameUnallocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJhMzhjZjEwNTBiYmExYjJiOWJjMzA3NzA1ZGY5YjA5MCIseyJ0Ijo2LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMjEwOX1d/268e1d1608/NotableFrameUnallocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJhMzhjZjEwNTBiYmExYjJiOWJjMzA3NzA1ZGY5YjA5MCIseyJ0Ijo2LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMjk3Mn1d/458269950d/NotableFrameUnallocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJhMzhjZjEwNTBiYmExYjJiOWJjMzA3NzA1ZGY5YjA5MCIseyJ0Ijo2LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMzgzNX1d/d7f5297205/NotableFrameUnallocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIyYTc5M2Q5NGIxMmU2MGNmYTZkNGVkN2RkMmZlZmY2YSIseyJ0Ijo2LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMTI0Nn1d/0c6e05dd56/NotableFrameUnallocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIyYTc5M2Q5NGIxMmU2MGNmYTZkNGVkN2RkMmZlZmY2YSIseyJ0Ijo2LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMjEwOX1d/5cfdd74691/NotableFrameUnallocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIyYTc5M2Q5NGIxMmU2MGNmYTZkNGVkN2RkMmZlZmY2YSIseyJ0Ijo2LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMjk3Mn1d/44411ee720/NotableFrameUnallocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIyYTc5M2Q5NGIxMmU2MGNmYTZkNGVkN2RkMmZlZmY2YSIseyJ0Ijo2LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lTm9ybWFsIiwiYSI6MSwic3AiOjAuMzgzNX1d/033031cc29/NotableFrameUnallocated.png"
         },
         "NotableFrameCanAllocate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI3YTcwMDc4YzczOWUzM2Y2OGJlNDlkNTgxZWQyZmQ1NiIseyJ0Ijo4LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4xMjQ2fV0/7b1d2fc9e2/NotableFrameCanAllocate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI3YTcwMDc4YzczOWUzM2Y2OGJlNDlkNTgxZWQyZmQ1NiIseyJ0Ijo4LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4yMTA5fV0/fd9779b2ff/NotableFrameCanAllocate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI3YTcwMDc4YzczOWUzM2Y2OGJlNDlkNTgxZWQyZmQ1NiIseyJ0Ijo4LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4yOTcyfV0/234b82f9ac/NotableFrameCanAllocate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI3YTcwMDc4YzczOWUzM2Y2OGJlNDlkNTgxZWQyZmQ1NiIseyJ0Ijo4LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4zODM1fV0/ce71f1fe5c/NotableFrameCanAllocate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIwZGEzMTZmNDNkMTFmMGU2ZmUyYzgxMjA0OTMyZWM4NyIseyJ0Ijo4LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4xMjQ2fV0/352dab09ff/NotableFrameCanAllocate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIwZGEzMTZmNDNkMTFmMGU2ZmUyYzgxMjA0OTMyZWM4NyIseyJ0Ijo4LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4yMTA5fV0/8ef6d5f588/NotableFrameCanAllocate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIwZGEzMTZmNDNkMTFmMGU2ZmUyYzgxMjA0OTMyZWM4NyIseyJ0Ijo4LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4yOTcyfV0/bf0d103281/NotableFrameCanAllocate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIwZGEzMTZmNDNkMTFmMGU2ZmUyYzgxMjA0OTMyZWM4NyIseyJ0Ijo4LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQ2FuQWxsb2NhdGUiLCJhIjoxLCJzcCI6MC4zODM1fV0/548a6ea1e1/NotableFrameCanAllocate.png"
         },
         "NotableFrameAllocated": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJlZTY4YTNmODA4Mjc2ZDc5ODA0ZTA0OWJhZTA0YWJlMyIseyJ0Ijo3LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMTI0Nn1d/ede1c286b7/NotableFrameAllocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJlZTY4YTNmODA4Mjc2ZDc5ODA0ZTA0OWJhZTA0YWJlMyIseyJ0Ijo3LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMjEwOX1d/64fee095a0/NotableFrameAllocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJlZTY4YTNmODA4Mjc2ZDc5ODA0ZTA0OWJhZTA0YWJlMyIseyJ0Ijo3LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMjk3Mn1d/6faf373312/NotableFrameAllocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJlZTY4YTNmODA4Mjc2ZDc5ODA0ZTA0OWJhZTA0YWJlMyIseyJ0Ijo3LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMzgzNX1d/998297d1fe/NotableFrameAllocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI0MmY4MmZlYjYzNzliMmJjMzQ4MzIwMzMyODJhNTYwMyIseyJ0Ijo3LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMTI0Nn1d/12949f5b6e/NotableFrameAllocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI0MmY4MmZlYjYzNzliMmJjMzQ4MzIwMzMyODJhNTYwMyIseyJ0Ijo3LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMjEwOX1d/c55cb35153/NotableFrameAllocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI0MmY4MmZlYjYzNzliMmJjMzQ4MzIwMzMyODJhNTYwMyIseyJ0Ijo3LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMjk3Mn1d/230df9690e/NotableFrameAllocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI0MmY4MmZlYjYzNzliMmJjMzQ4MzIwMzMyODJhNTYwMyIseyJ0Ijo3LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL0F0bGFzU2NyZWVuL0F0bGFzUGFzc2l2ZVNraWxsU2NyZWVuTm90YWJsZUZyYW1lQWN0aXZlIiwiYSI6MSwic3AiOjAuMzgzNX1d/f087cce7b6/NotableFrameAllocated.png"
         },
         "KeystoneFrameUnallocated": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIyMDlkY2Q5ZDJmYzdhY2U5YjFmZGU2NmFmYmU3NGFlNSIseyJ0IjozLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4xMjQ2fV0/ad7dca759d/KeystoneFrameUnallocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIyMDlkY2Q5ZDJmYzdhY2U5YjFmZGU2NmFmYmU3NGFlNSIseyJ0IjozLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4yMTA5fV0/c17d250ac5/KeystoneFrameUnallocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIyMDlkY2Q5ZDJmYzdhY2U5YjFmZGU2NmFmYmU3NGFlNSIseyJ0IjozLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4yOTcyfV0/b83fda859d/KeystoneFrameUnallocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIyMDlkY2Q5ZDJmYzdhY2U5YjFmZGU2NmFmYmU3NGFlNSIseyJ0IjozLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4zODM1fV0/96c8ad58c9/KeystoneFrameUnallocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIyMjIyNDg4YjQzYTgzMzgwNjU3ZDQ2YjYwOGI5MTQ0OSIseyJ0IjozLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4xMjQ2fV0/6ea8dddc77/KeystoneFrameUnallocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIyMjIyNDg4YjQzYTgzMzgwNjU3ZDQ2YjYwOGI5MTQ0OSIseyJ0IjozLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4yMTA5fV0/18e15359d5/KeystoneFrameUnallocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIyMjIyNDg4YjQzYTgzMzgwNjU3ZDQ2YjYwOGI5MTQ0OSIseyJ0IjozLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4yOTcyfV0/2825e9c2f4/KeystoneFrameUnallocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIyMjIyNDg4YjQzYTgzMzgwNjU3ZDQ2YjYwOGI5MTQ0OSIseyJ0IjozLCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVOb3JtYWwiLCJhIjoxLCJzcCI6MC4zODM1fV0/7fb065e099/KeystoneFrameUnallocated.png"
         },
         "KeystoneFrameCanAllocate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIxNzM2NjliMmIzMGUwNjQxZjMzODlhOWVkZWJjNDk2ZCIseyJ0Ijo1LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjEyNDZ9XQ/db0c8d8f0d/KeystoneFrameCanAllocate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIxNzM2NjliMmIzMGUwNjQxZjMzODlhOWVkZWJjNDk2ZCIseyJ0Ijo1LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjIxMDl9XQ/ba9a9c50e6/KeystoneFrameCanAllocate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIxNzM2NjliMmIzMGUwNjQxZjMzODlhOWVkZWJjNDk2ZCIseyJ0Ijo1LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjI5NzJ9XQ/59ae4c1a53/KeystoneFrameCanAllocate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIxNzM2NjliMmIzMGUwNjQxZjMzODlhOWVkZWJjNDk2ZCIseyJ0Ijo1LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjM4MzV9XQ/99223b8e0d/KeystoneFrameCanAllocate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI3NjViYjhhYjEyNGNlMjdjNDg2ZWQxZjJkMTg2ZGM2MCIseyJ0Ijo1LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjEyNDZ9XQ/4cd6f71bf1/KeystoneFrameCanAllocate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI3NjViYjhhYjEyNGNlMjdjNDg2ZWQxZjJkMTg2ZGM2MCIseyJ0Ijo1LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjIxMDl9XQ/6203981225/KeystoneFrameCanAllocate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI3NjViYjhhYjEyNGNlMjdjNDg2ZWQxZjJkMTg2ZGM2MCIseyJ0Ijo1LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjI5NzJ9XQ/4cf6804ffe/KeystoneFrameCanAllocate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI3NjViYjhhYjEyNGNlMjdjNDg2ZWQxZjJkMTg2ZGM2MCIseyJ0Ijo1LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVDYW5BbGxvY2F0ZSIsImEiOjEsInNwIjowLjM4MzV9XQ/d1c6993526/KeystoneFrameCanAllocate.png"
         },
         "KeystoneFrameAllocated": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI0MDg4YmFmN2ZlZmVhZDQwN2RjODU5OWM0M2JiMjVhYyIseyJ0Ijo0LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4xMjQ2fV0/b38d03f8ee/KeystoneFrameAllocated.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI0MDg4YmFmN2ZlZmVhZDQwN2RjODU5OWM0M2JiMjVhYyIseyJ0Ijo0LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4yMTA5fV0/6df3109655/KeystoneFrameAllocated.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI0MDg4YmFmN2ZlZmVhZDQwN2RjODU5OWM0M2JiMjVhYyIseyJ0Ijo0LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4yOTcyfV0/3791341626/KeystoneFrameAllocated.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI0MDg4YmFmN2ZlZmVhZDQwN2RjODU5OWM0M2JiMjVhYyIseyJ0Ijo0LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4zODM1fV0/9e7b1e9a87/KeystoneFrameAllocated.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIzNDU1ZjRhYTAyYmZkZDRmYTVlMTA4MWQwOWM2ZDBmNSIseyJ0Ijo0LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4xMjQ2fV0/3d2a56d243/KeystoneFrameAllocated.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIzNDU1ZjRhYTAyYmZkZDRmYTVlMTA4MWQwOWM2ZDBmNSIseyJ0Ijo0LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4yMTA5fV0/ef7664e84e/KeystoneFrameAllocated.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIzNDU1ZjRhYTAyYmZkZDRmYTVlMTA4MWQwOWM2ZDBmNSIseyJ0Ijo0LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4yOTcyfV0/0742e835e5/KeystoneFrameAllocated.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIzNDU1ZjRhYTAyYmZkZDRmYTVlMTA4MWQwOWM2ZDBmNSIseyJ0Ijo0LCJwIjoiMkRBcnQvVUlJbWFnZXMvSW5HYW1lL1Bhc3NpdmVTa2lsbFNjcmVlbktleXN0b25lRnJhbWVBY3RpdmUiLCJhIjoxLCJzcCI6MC4zODM1fV0/795e25082d/KeystoneFrameAllocated.png"
         },
         "Orbit1Normal": {
             "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJjYzBjMTQ4ZGJlNzI1OTE3ODczYmFlNGExYmVjMTk4ZiIseyJ0Ijo5LCJvIjoxLCJhIjoxLCJzcCI6MC4xMjQ2fV0/15f3219ab2/AtlasOrbit1Normal.png",
@@ -15050,22 +15054,22 @@
             "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI2ZjUzMmU2ZmY1OGFmNzMwZWUxODkwNzVjNmMzNTQwMiIseyJ0IjoxMSwibyI6NiwiYSI6MSwic3AiOjAuMzgzNX1d/82f37e4f71/AtlasOrbit6Active.png"
         },
         "LineConnectorNormal": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJlNDE5MmFjMTljMjA2ZWUyMDc1YzZmMmEzYTUwNDFlYSIseyJ0IjoxMiwiYSI6MSwic3AiOjAuMTI0Nn1d/8ea42413e0/AtlasLineConnectorNormal.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJlNDE5MmFjMTljMjA2ZWUyMDc1YzZmMmEzYTUwNDFlYSIseyJ0IjoxMiwiYSI6MSwic3AiOjAuMjEwOX1d/b119082161/AtlasLineConnectorNormal.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJlNDE5MmFjMTljMjA2ZWUyMDc1YzZmMmEzYTUwNDFlYSIseyJ0IjoxMiwiYSI6MSwic3AiOjAuMjk3Mn1d/0250ed0734/AtlasLineConnectorNormal.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJlNDE5MmFjMTljMjA2ZWUyMDc1YzZmMmEzYTUwNDFlYSIseyJ0IjoxMiwiYSI6MSwic3AiOjAuMzgzNX1d/82e4b5cdfa/AtlasLineConnectorNormal.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCIxYjkyMzllZTI1MzRmZmNhZDQyNTllN2RhZmY4YjNlOCIseyJ0IjoxMiwiYSI6MSwic3AiOjAuMTI0Nn1d/f2a67515c6/AtlasLineConnectorNormal.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCIxYjkyMzllZTI1MzRmZmNhZDQyNTllN2RhZmY4YjNlOCIseyJ0IjoxMiwiYSI6MSwic3AiOjAuMjEwOX1d/6c8a3a536e/AtlasLineConnectorNormal.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCIxYjkyMzllZTI1MzRmZmNhZDQyNTllN2RhZmY4YjNlOCIseyJ0IjoxMiwiYSI6MSwic3AiOjAuMjk3Mn1d/1fcb3636d8/AtlasLineConnectorNormal.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCIxYjkyMzllZTI1MzRmZmNhZDQyNTllN2RhZmY4YjNlOCIseyJ0IjoxMiwiYSI6MSwic3AiOjAuMzgzNX1d/56ea745de3/AtlasLineConnectorNormal.png"
         },
         "LineConnectorIntermediate": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI1NDUyNzBiN2I3NTdjMzcwOGY5NjViNGU0MjM0ZWNkMyIseyJ0IjoxMywiYSI6MSwic3AiOjAuMTI0Nn1d/9d664fae23/AtlasLineConnectorIntermediate.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI1NDUyNzBiN2I3NTdjMzcwOGY5NjViNGU0MjM0ZWNkMyIseyJ0IjoxMywiYSI6MSwic3AiOjAuMjEwOX1d/2bc164a6c5/AtlasLineConnectorIntermediate.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI1NDUyNzBiN2I3NTdjMzcwOGY5NjViNGU0MjM0ZWNkMyIseyJ0IjoxMywiYSI6MSwic3AiOjAuMjk3Mn1d/c370b2138a/AtlasLineConnectorIntermediate.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI1NDUyNzBiN2I3NTdjMzcwOGY5NjViNGU0MjM0ZWNkMyIseyJ0IjoxMywiYSI6MSwic3AiOjAuMzgzNX1d/24ded3b5f2/AtlasLineConnectorIntermediate.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJkZDJiMzA1NTAyNTczNjZjNDhiOGM4YTRiYzFmNWZjYSIseyJ0IjoxMywiYSI6MSwic3AiOjAuMTI0Nn1d/8e31bedfd1/AtlasLineConnectorIntermediate.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJkZDJiMzA1NTAyNTczNjZjNDhiOGM4YTRiYzFmNWZjYSIseyJ0IjoxMywiYSI6MSwic3AiOjAuMjEwOX1d/2bb8006717/AtlasLineConnectorIntermediate.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJkZDJiMzA1NTAyNTczNjZjNDhiOGM4YTRiYzFmNWZjYSIseyJ0IjoxMywiYSI6MSwic3AiOjAuMjk3Mn1d/3f35340be9/AtlasLineConnectorIntermediate.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJkZDJiMzA1NTAyNTczNjZjNDhiOGM4YTRiYzFmNWZjYSIseyJ0IjoxMywiYSI6MSwic3AiOjAuMzgzNX1d/a78c44222b/AtlasLineConnectorIntermediate.png"
         },
         "LineConnectorActive": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJhYTRlYTkyMmEwZDVkNDFkNjZhNDQ2NWNjMjQzMWEyZCIseyJ0IjoxNCwiYSI6MSwic3AiOjAuMTI0Nn1d/d6b5a87954/AtlasLineConnectorActive.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJhYTRlYTkyMmEwZDVkNDFkNjZhNDQ2NWNjMjQzMWEyZCIseyJ0IjoxNCwiYSI6MSwic3AiOjAuMjEwOX1d/92c66e0643/AtlasLineConnectorActive.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJhYTRlYTkyMmEwZDVkNDFkNjZhNDQ2NWNjMjQzMWEyZCIseyJ0IjoxNCwiYSI6MSwic3AiOjAuMjk3Mn1d/06cc00591b/AtlasLineConnectorActive.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJhYTRlYTkyMmEwZDVkNDFkNjZhNDQ2NWNjMjQzMWEyZCIseyJ0IjoxNCwiYSI6MSwic3AiOjAuMzgzNX1d/678bea2970/AtlasLineConnectorActive.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJjNzgyYjJlYzNjMDcyYzY0YWFhNTgxMjgxNmY3NGViZSIseyJ0IjoxNCwiYSI6MSwic3AiOjAuMTI0Nn1d/f7f7dab397/AtlasLineConnectorActive.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJjNzgyYjJlYzNjMDcyYzY0YWFhNTgxMjgxNmY3NGViZSIseyJ0IjoxNCwiYSI6MSwic3AiOjAuMjEwOX1d/9da36bb184/AtlasLineConnectorActive.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJjNzgyYjJlYzNjMDcyYzY0YWFhNTgxMjgxNmY3NGViZSIseyJ0IjoxNCwiYSI6MSwic3AiOjAuMjk3Mn1d/fe70260f77/AtlasLineConnectorActive.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJjNzgyYjJlYzNjMDcyYzY0YWFhNTgxMjgxNmY3NGViZSIseyJ0IjoxNCwiYSI6MSwic3AiOjAuMzgzNX1d/8ddc118d77/AtlasLineConnectorActive.png"
         },
         "PSLineDeco": {
             "0.1246": "https://web.poecdn.com/gen/image/WzIwLDE0LHsiaCI6ZmFsc2UsImsiOiIyREFydC9VSUltYWdlcy9JbkdhbWUvQXRsYXNTY3JlZW4vQXRsYXNQYXNzaXZlU2tpbGxTY3JlZW5Pcm5hbWVudDEiLCJzcCI6MC4xMjQ2fV0/33da0d044d/Line_Deco.png",
@@ -15101,10 +15105,10 @@
             "0.3835": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1VJSW1hZ2VzL0luR2FtZS9BdGxhc1NjcmVlbi9BdGxhc1Bhc3NpdmVTa2lsbFNjcmVlblN0YXJ0Iiwic3AiOjAuMzgzNX1d/88260e171c/AtlasPassiveSkillScreenStart.png"
         },
         "AtlasPassiveBackground": {
-            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCJmZDg1MzFhZTc5MWMyZWRhOGM5ZjE5MzFkNThiNDZjNyIseyJ0Ijo4Nywic3AiOjAuMTI0Nn1d/dba657a965/AtlasPassiveBackground.png",
-            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCJmZDg1MzFhZTc5MWMyZWRhOGM5ZjE5MzFkNThiNDZjNyIseyJ0Ijo4Nywic3AiOjAuMjEwOX1d/a75cf8aa52/AtlasPassiveBackground.png",
-            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCJmZDg1MzFhZTc5MWMyZWRhOGM5ZjE5MzFkNThiNDZjNyIseyJ0Ijo4Nywic3AiOjAuMjk3Mn1d/eefa1d26f9/AtlasPassiveBackground.png",
-            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCJmZDg1MzFhZTc5MWMyZWRhOGM5ZjE5MzFkNThiNDZjNyIseyJ0Ijo4Nywic3AiOjAuMzgzNX1d/da71971490/AtlasPassiveBackground.png"
+            "0.1246": "https://web.poecdn.com/gen/image/WzIyLCI2NDg3ZDRhODA2ODNmYmQzNzkwZTk2NWIzZGE1ODQzNSIseyJ0Ijo4Nywic3AiOjAuMTI0Nn1d/e48f271ca1/AtlasPassiveBackground.png",
+            "0.2109": "https://web.poecdn.com/gen/image/WzIyLCI2NDg3ZDRhODA2ODNmYmQzNzkwZTk2NWIzZGE1ODQzNSIseyJ0Ijo4Nywic3AiOjAuMjEwOX1d/a65a8b3923/AtlasPassiveBackground.png",
+            "0.2972": "https://web.poecdn.com/gen/image/WzIyLCI2NDg3ZDRhODA2ODNmYmQzNzkwZTk2NWIzZGE1ODQzNSIseyJ0Ijo4Nywic3AiOjAuMjk3Mn1d/535455a43a/AtlasPassiveBackground.png",
+            "0.3835": "https://web.poecdn.com/gen/image/WzIyLCI2NDg3ZDRhODA2ODNmYmQzNzkwZTk2NWIzZGE1ODQzNSIseyJ0Ijo4Nywic3AiOjAuMzgzNX1d/5f177711e9/AtlasPassiveBackground.png"
         }
     },
     "constants": {
@@ -25627,7 +25631,7 @@
         0.3835
     ],
     "points": {
-        "totalPoints": 128,
+        "totalPoints": 132,
         "ascendancyPoints": 0
     }
 }
