@@ -1,5 +1,9 @@
 ## Notable Changes
 
+### 3.18.1
+---
+We have changed all image assets to now use spritesheets. These will be supplied with each data release from now on.
+
 ### 3.17.0
 ---
 The amount of nodes per orbit has changed to give us more angles to work with.
