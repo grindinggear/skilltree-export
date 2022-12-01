@@ -1,5 +1,30 @@
 ## Notable Changes
 
+### 3.20.0
+---
+Group backgrounds are now defined in the group objects themselves using a new `background` property. If this property is missing then no background should be rendered.
+
+| Key | Value Type | Extra Information |
+| --- | --- | --- |
+| background | ?object | |
+| ↳ image | string | an image key for the `groupBackground` spritesheet |
+| ↳ isHalfImage | ?boolean | always `true` if present |
+| ↳ offsetX | ?int | offset from the group x in pixels |
+| ↳ offsetY | ?int | offset from the group y in pixels |
+
+| Background Keys | Extra Information |
+| --- | --- |
+| PSGroupBackground1 |
+| PSGroupBackground2 |
+| PSGroupBackground3 |
+| PSGroupBackground1Alt | only on the Atlas tree |
+| PSGroupBackground2Alt | only on the Atlas tree |
+| PSGroupBackground3Alt |  only on the Atlas tree |
+| GroupBackgroundCleansingFire | only on the Atlas tree |
+| GroupBackgroundTangle | only on the Atlas tree |
+
+The `backgroundOverride` property has been removed.
+
 ### 3.18.1
 ---
 We have changed all image assets to now use spritesheets. These will be supplied with each data release from now on.
