@@ -62,6 +62,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "19635",
                 "26270",
@@ -79,6 +82,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "44604",
                 "11536",
@@ -126,6 +132,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "43613",
                 "15554",
@@ -140,6 +149,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "37870",
                 "53591",
@@ -157,6 +169,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "64190",
                 "11880",
@@ -173,6 +188,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "41635",
                 "7444",
@@ -212,6 +230,10 @@
                 3,
                 4
             ],
+            "background": {
+                "image": "PSGroupBackground3",
+                "isHalfImage": true
+            },
             "nodes": [
                 "58402",
                 "20257",
@@ -232,6 +254,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "26643",
                 "34134",
@@ -248,6 +273,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "37001",
                 "40320",
@@ -292,6 +320,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "48381",
                 "30006",
@@ -306,6 +337,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "36858",
                 "39841",
@@ -342,6 +376,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "42987",
                 "32292",
@@ -388,6 +425,10 @@
                 2,
                 3
             ],
+            "background": {
+                "image": "PSGroupBackground3",
+                "isHalfImage": true
+            },
             "nodes": [
                 "56589",
                 "37671",
@@ -410,6 +451,10 @@
                 3,
                 4
             ],
+            "background": {
+                "image": "PSGroupBackground3",
+                "isHalfImage": true
+            },
             "nodes": [
                 "37999",
                 "10490",
@@ -429,6 +474,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "23159",
                 "619",
@@ -464,6 +512,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "27564",
                 "11802",
@@ -478,6 +529,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "29937",
                 "14094",
@@ -535,6 +589,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "2913",
                 "18203",
@@ -569,6 +626,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "63843",
                 "31080",
@@ -585,6 +645,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "44184",
                 "51923",
@@ -642,6 +705,10 @@
                 2,
                 3
             ],
+            "background": {
+                "image": "PSGroupBackground3",
+                "isHalfImage": true
+            },
             "nodes": [
                 "22266",
                 "23471",
@@ -661,6 +728,10 @@
                 2,
                 3
             ],
+            "background": {
+                "image": "PSGroupBackground3",
+                "isHalfImage": true
+            },
             "nodes": [
                 "11334",
                 "6538",
@@ -679,6 +750,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "12969",
                 "928",
@@ -703,6 +777,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "30679",
                 "31786",
@@ -728,6 +805,10 @@
                 2,
                 3
             ],
+            "background": {
+                "image": "PSGroupBackground3",
+                "isHalfImage": true
+            },
             "nodes": [
                 "28574",
                 "39861",
@@ -745,6 +826,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "1461",
                 "41261",
@@ -759,6 +843,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "11551",
                 "31127",
@@ -773,6 +860,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "32555",
                 "28186",
@@ -787,6 +877,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "12412",
                 "20807",
@@ -813,6 +906,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "16544",
                 "34913",
@@ -827,6 +923,9 @@
                 0,
                 2
             ],
+            "background": {
+                "image": "PSGroupBackground2"
+            },
             "nodes": [
                 "36287",
                 "46277",
@@ -859,10 +958,11 @@
             "isNotable": true,
             "stats": [
                 "25% chance to Shock",
-                "Your Shocks can increase Damage taken by up to a maximum of 60%"
+                "+10% to Maximum Effect of Shock"
             ],
             "reminderText": [
-                "(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)"
+                "(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)",
+                "(Base Maximum Effect of Shock is 50% increased Damage taken)"
             ],
             "group": 1,
             "orbit": 0,
@@ -2808,7 +2908,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/lifeleechimmunity.png",
             "isNotable": true,
             "stats": [
-                "+4 Life gained for each Enemy hit by your Attacks",
+                "Gain 4 Life per Enemy Hit with Attacks",
                 "75% reduced Flask Life Recovery rate"
             ],
             "group": 29,
@@ -2976,7 +3076,7 @@
             "isNotable": true,
             "stats": [
                 "10% increased Melee Damage",
-                "+15 Life gained on Kill"
+                "Gain 15 Life per Enemy Killed"
             ],
             "group": 33,
             "orbit": 2,
@@ -3349,10 +3449,10 @@
             "icon": "Art/2DArt/SkillIcons/passives/Champion/FirstStrikeLastFall.png",
             "isNotable": true,
             "stats": [
-                "Gain Adrenaline for 5 seconds when you reach Low Life if you\ndo not have Adrenaline"
+                "Gain Adrenaline for 5 seconds when you reach Low Life"
             ],
             "reminderText": [
-                "(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction)"
+                "(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction. You cannot gain Adrenaline if you already have it)"
             ],
             "group": 41,
             "orbit": 2,
@@ -3527,7 +3627,7 @@
             "isNotable": true,
             "stats": [
                 "10% increased Damage",
-                "+5 Mana gained on Kill"
+                "Gain 5 Mana per Enemy Killed"
             ],
             "group": 46,
             "orbit": 0,
@@ -4629,24 +4729,6 @@
             ],
             "in": []
         }
-    },
-    "uiArt": {
-        "groupBackgroundSmall": "Art/2DArt/UIImages/InGame/PassiveSkillScreenGroupBackgroundSmall",
-        "groupBackgroundMedium": "Art/2DArt/UIImages/InGame/PassiveSkillScreenGroupBackgroundMedium",
-        "groupBackgroundLarge": "Art/2DArt/UIImages/InGame/PassiveSkillScreenGroupBackgroundLargeHalf",
-        "nodeFrameSmall": "Art/2DArt/UIImages/InGame/PassiveSkillScreenPassiveFrameNormal",
-        "nodeFrameNotable": "Art/2DArt/UIImages/InGame/PassiveSkillScreenNotableFrameNormal",
-        "nodeFrameKeystone": "Art/2DArt/UIImages/InGame/PassiveSkillScreenKeystoneFrameNormal",
-        "nodeFrameSmallActive": "Art/2DArt/UIImages/InGame/PassiveSkillScreenPassiveFrameActive",
-        "nodeFrameNotableActive": "Art/2DArt/UIImages/InGame/PassiveSkillScreenNotableFrameActive",
-        "nodeFrameKeystoneActive": "Art/2DArt/UIImages/InGame/PassiveSkillScreenKeystoneFrameActive",
-        "nodeFrameSmallCanAllocate": "Art/2DArt/UIImages/InGame/PassiveSkillScreenPassiveFrameCanAllocate",
-        "nodeFrameNotableCanAllocate": "Art/2DArt/UIImages/InGame/PassiveSkillScreenNotableFrameCanAllocate",
-        "nodeFrameKeystoneCanAllocate": "Art/2DArt/UIImages/InGame/PassiveSkillScreenKeystoneFrameCanAllocate",
-        "lineOrnament": "Art/2DArt/UIImages/InGame/PassiveSkillScreenOrnament1"
-    },
-    "uiArtOptions": {
-        "largeGroupUsesHalfImage": true
     },
     "min_x": -2675,
     "min_y": -2626,
