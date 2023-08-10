@@ -1,3 +1,7 @@
+## Notice
+
+This repository is for the Passive Skill Tree data. Please visit https://github.com/grindinggear/atlastree-export if you're looking for Atlas Tree data.
+
 ## Notable Changes
 
 ### 3.20.0
