@@ -4,10 +4,6 @@ This repository is for the Passive Skill Tree data. Please visit https://github.
 
 ## Notable Changes
 
-### 3.22.0
----
-We aim to update this preview to include passive skill tree tattoo data on Wednesday 16th August (NSZT).
-
 ### 3.20.0
 ---
 Group backgrounds are now defined in the group objects themselves using a new `background` property. If this property is missing then no background should be rendered.
