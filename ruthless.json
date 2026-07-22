@@ -44386,7 +44386,7 @@
             "isNotable": true,
             "ascendancyName": "Occultist",
             "stats": [
-                "Gain [SpiritInfusion|Spirit Infusion] every second while Channelling a Spell"
+                "Gain [SpiritInfusion|Spirit Infusion] every 0.5 seconds while Channelling a Spell"
             ],
             "group": 367,
             "orbit": 4,
@@ -56139,7 +56139,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/ColdPureElementalCasterKeystone.png",
             "isKeystone": true,
             "stats": [
-                "Enemies Chilled by your Hits have Damage taken increased by Chill Effect\nEnemies in your Chilling Areas have Damage taken increased by Chill Effect\nCannot deal non-Cold Damage"
+                "Enemies Chilled by your Hits have Cold Damage taken increased by Chill Effect\nEnemies in your Chilling Areas have Cold Damage taken increased by Chill Effect\nCannot deal non-Cold Damage"
             ],
             "flavourText": [
                 "Chill them to the bone, that they might never know warmth again."
